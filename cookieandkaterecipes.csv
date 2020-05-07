@@ -1,0 +1,967 @@
+,title,time,cuisine,category,rating,url
+0,Classic Pico de Gallo,15 mins,Mexican,Dip,5.0,https://cookieandkate.com/classic-pico-de-gallo-recipe/
+1,Chunky Avocado Salsa,20 minutes,Mexican,Dip,5.0,https://cookieandkate.com/chunky-avocado-salsa-recipe/
+2,Heirloom Caprese Salad,20 minutes,Italian,Salad,5.0,https://cookieandkate.com/best-caprese-salad-recipe/
+3,Avocado Toast (Plus Tips & Variations),5 minutes,American,"Breakfast, Snack",4.9,https://cookieandkate.com/avocado-toast-recipe/
+4,"Torn Olives with Almonds, Celery & Parmesan",15 minutes,Mediterranean,Appetizer,5.0,https://cookieandkate.com/torn-olives-with-almonds-celery-parmesan/
+5,Garden-Fresh Corn Salad,30 minutes,American,Salad,4.8,https://cookieandkate.com/garden-fresh-corn-salad/
+6,Fresh Corn Salsa,20 minutes,Mexican,"Salsa, appetizer",4.9,https://cookieandkate.com/fresh-corn-salsa-recipe/
+7,Tropical Fruit Salad,30 minutes,Costa Rican,Salad,5.0,https://cookieandkate.com/tropical-fruit-salad-recipe/
+8,Best Tahini Sauce,20 minutes,Middle Eastern,Sauce,4.9,https://cookieandkate.com/best-tahini-sauce-recipe/
+9,Ultra Crispy Baked Potato Wedges,1 hour 20 minutes,American,Side Dish,4.9,https://cookieandkate.com/crispy-baked-potato-wedges-recipe/
+10,The Best Hummus,40 minutes,Israeli,Dip,4.9,https://cookieandkate.com/best-hummus-recipe/
+11,How to Make Frittatas (Stovetop or Baked),45 minutes,Italian,Breakfast,5.0,https://cookieandkate.com/best-frittata-recipe/
+12,Creamy Avocado Dip,5 minutes,Mexican,Appetizer,4.8,https://cookieandkate.com/creamy-avocado-dip-recipe/
+13,Easy Refried Beans,25 minutes,Mexican,Side Dish,4.9,https://cookieandkate.com/easy-refried-beans-recipe/
+14,Gaby’s Cucumber Salad,5 minutes,Californian,Salad,5.0,https://cookieandkate.com/best-cucumber-salad-recipe/
+15,Best Red Salsa (Ready in 10 Minutes),10 minutes,Mexican,Sauce,4.8,https://cookieandkate.com/best-red-salsa-recipe/
+16,Perfect Stovetop Popcorn,10 minutes,American,Snack,4.9,https://cookieandkate.com/perfect-stovetop-popcorn-recipe/
+17,Jessica’s Marinated Chickpeas,15 minutes (plus 30 minute optional marinating time),Mediterranean,Salad,4.9,https://cookieandkate.com/marinated-chickpeas-recipe/
+18,Baked Goat Cheese with Tomato Sauce,40 minutes,Mediterranean,Appetizer,5.0,https://cookieandkate.com/baked-goat-cheese-with-tomato-sauce/
+19,Avocado & Citrus “Ceviche”,30 minutes,Peruvian,Appetizer,5.0,https://cookieandkate.com/vegan-citrus-ceviche-recipe/
+20,Sunshine Salad Dressing,10 minutes,American,Salad Dressing,5.0,https://cookieandkate.com/healthy-honey-mustard-dressing-recipe/
+21,Sesame Caramel Corn,25 minutes,,,5.0,https://cookieandkate.com/sesame-caramel-popcorn-recipe/
+22,Epic Baba Ganoush,55 minutes,Lebanese,Appetizer,4.8,https://cookieandkate.com/epic-baba-ganoush-recipe/
+23,Toasted Sesame Hummus,18 minutes,Mediterranean,Appetizer,4.7,https://cookieandkate.com/toasted-sesame-hummus-recipe/
+24,Baked Spinach Artichoke Dip,45 minutes,Mediterranean,Appetizer,4.8,https://cookieandkate.com/baked-spinach-artichoke-dip-recipe/
+25,10-Minute Quesadillas,10 minutes,Mexican,Main,4.8,https://cookieandkate.com/quick-quesadillas-recipe/
+26,Corn & Cherry Tomato Salsa,1 hour,Mexican,Sauce,5.0,https://cookieandkate.com/corn-cherry-tomato-salsa-recipe/
+27,Colorful Veggie Lettuce Wraps,25 minutes,Asian,Appetizer,4.4,https://cookieandkate.com/vegetable-lettuce-wraps-recipe/
+28,Edamame Hummus,20 minutes,Vegan,Appetizer,4.8,https://cookieandkate.com/edamame-hummus-recipe/
+29,Fresh Black Bean Salad,20 minutes,Southwestern,Salad,4.9,https://cookieandkate.com/black-bean-salad-recipe/
+30,The Ultimate Gazpacho,25 minutes,Spanish,Soup,4.8,https://cookieandkate.com/ultimate-gazpacho-recipe/
+31,Mediterranean Tomato & Feta Dip,20 minutes,Mediterranean,Appetizer,5.0,https://cookieandkate.com/tomato-feta-dip-recipe/
+32,Creamy Vegan Queso,30 minutes,Mexican,Appetizer,4.8,https://cookieandkate.com/vegan-queso-recipe/
+33,Hummus Quesadillas!,15 minutes,Mediterranean,Entree,5.0,https://cookieandkate.com/hummus-quesadillas-recipe/
+34,Strawberry Salsa,10 mins,Mexican,Appetizer,5.0,https://cookieandkate.com/strawberry-salsa-recipe/
+35,Fresh Seven-Layer Dip,30 minutes,Mexican,Appetizer,5.0,https://cookieandkate.com/fresh-seven-layer-dip-recipe/
+36,Kale Guacamole,15 mins,Mexican,Appetizer,5.0,https://cookieandkate.com/kale-guacamole-recipe/
+37,Spiralized Sweet Potato & Black Bean Quesadillas,25 minutes,Mexican,Entree,5.0,https://cookieandkate.com/sweet-potato-black-bean-quesadillas-recipe/
+38,Kung Pao Brussels Sprouts,45 minutes,,,5.0,https://cookieandkate.com/kung-pao-brussels-sprouts-recipe/
+39,Roasted Broccoli Rabe and Pesto Flatbread,25 minutes,Italian,Appetizer,5.0,https://cookieandkate.com/broccoli-rabe-pesto-flatbread-recipe/
+40,Simple Caprese Skewers with Balsamic Dipping Sauce,15 mins,Italian,Appetizer,4.8,https://cookieandkate.com/simple-caprese-skewers-recipe/
+41,Maureen’s Avocado Tabbouleh,50 minutes,Lebanese,Salad,4.7,https://cookieandkate.com/avocado-tabbouleh-recipe/
+42,Homemade Salsa Verde,20 minutes,Mexican,Salsa,4.9,https://cookieandkate.com/homemade-salsa-verde-recipe/
+43,Peanut Dipping Sauce,5 mins,Asian,Sauce,4.7,https://cookieandkate.com/peanut-dipping-sauce/
+44,Cowboy Caviar,15 mins,Southern,Appetizer,4.8,https://cookieandkate.com/cowboy-caviar-recipe/
+45,Thai-Style Lettuce Wraps,40 minutes,Asian,Appetizer,4.4,https://cookieandkate.com/thai-style-lettuce-wraps/
+46,Sun-Dried Tomato Hummus and Roasted Broccoli Crostini,25 minutes,Greek,Appetizer,5.0,https://cookieandkate.com/roasted-broccoli-crostini-with-sun-dried-tomato-hummus/
+47,Vegan Chipotle Carrot Queso,25 minutes,Mexican,Appetizer,4.8,https://cookieandkate.com/vegan-chipotle-carrot-queso/
+48,Fresh Mango Salsa,15 mins,Mexican,Salsa,4.9,https://cookieandkate.com/fresh-mango-salsa-recipe/
+49,Tropical Mango Spring Rolls with Avocado-Cilantro Dipping Sauce,30 mins,Thai,Appetizer,4.8,https://cookieandkate.com/tropical-mango-spring-rolls/
+50,Green Goddess Hummus,8 minutes,Lebanese,Appetizer,4.9,https://cookieandkate.com/green-goddess-hummus-recipe/
+51,Festive Pomegranate Guacamole,20 mins,Mexican,Appetizer,4.8,https://cookieandkate.com/festive-pomegranate-guacamole/
+52,Basil Pesto Party Almonds,40 minutes,Italian,Appetizer,5.0,https://cookieandkate.com/basil-pesto-party-almonds/
+53,Roasted Grape Crostini with Brie and Fresh Thyme,30 minutes,,,4.8,https://cookieandkate.com/roasted-grape-crostini-with-brie-and-thyme/
+54,Thai Mango Cabbage Wraps with Crispy Tofu and Peanut Sauce,1 hour,Thai,Appetizer/Entree,4.9,https://cookieandkate.com/thai-mango-cabbage-wraps/
+55,Cranberry Crostini,25 minutes,American,Appetizer,4.3,https://cookieandkate.com/cranberry-crostini/
+56,"Tomato, Olive and Chickpea Quesadillas with Dill Yogurt Dip",15 minutes,Greek,"Entree, appetizer or snack",4.4,https://cookieandkate.com/tomato-olive-and-chickpea-quesadilla-with-dill-yogurt-dip/
+57,Lebanese Lemon-Parsley Bean Salad,15 mins,Mediterranean,Salad,4.9,https://cookieandkate.com/lemon-parsley-bean-salad-and-hummus/
+58,"Crispy Mushroom, Spinach and Avocado Quesadillas",20 minutes,Mexican,Main,4.9,https://cookieandkate.com/crispy-mushroom-spinach-and-avocado-quesadillas/
+59,Blue Corn Nachos with Homemade Guacamole,25 minutes,Mexican,Appetizer,5.0,https://cookieandkate.com/vegetarian-blue-corn-nachos-with-guacamole/
+60,Summer Rolls with Spicy Peanut Sauce,45 minutes,Thai,Appetizer,5.0,https://cookieandkate.com/summer-rolls-with-spicy-peanut-sauce/
+61,Sweet Corn Salad Wraps,50 minutes,,,5.0,https://cookieandkate.com/sweet-corn-salad-wraps/
+62,"Strawberry, Basil and Goat Cheese Panini",30 minutes,,,4.5,https://cookieandkate.com/strawberry-basil-and-goat-cheese-panini/
+63,Tomatillo Black Bean Tostadas,40 minutes,Mexican,Main,4.8,https://cookieandkate.com/baked-tostadas-with-tomatillo-black-bean-salsa/
+64,Spicy Sweet Potato Hummus,1 hour 10 minutes,,,4.8,https://cookieandkate.com/spicy-sweet-potato-hummus/
+65,Baked Mediterranean Feta Dip,20 minutes,Mediterranean,Appetizer,5.0,https://cookieandkate.com/mediterranean-feta-dip/
+66,Healthier Strawberry Shortcake,50 minutes,,,5.0,https://cookieandkate.com/healthier-strawberry-shortcake-recipe/
+67,Gluten-Free Peach Crisp,50 minutes,American,Dessert,4.8,https://cookieandkate.com/gluten-free-peach-crisp-recipe/
+68,Healthy Zucchini Bread,1 hour 10 minutes,American,Baked good,4.6,https://cookieandkate.com/healthy-zucchini-bread-recipe/
+69,Lemon Raspberry Muffins,32 minutes,American,Baked goods,4.8,https://cookieandkate.com/healthy-raspberry-muffins-recipe/
+70,Citrus Olive Oil Cake,1 hour 10 minutes,,,4.9,https://cookieandkate.com/citrus-olive-oil-cake-recipe/
+71,Healthy Apple Muffins,28 minutes,American,Muffins,4.8,https://cookieandkate.com/healthy-apple-muffins-recipe/
+72,Healthy Carrot Muffins,28 minutes,American,Baked goods,4.7,https://cookieandkate.com/healthy-carrot-muffins-recipe/
+73,Raspberry Hand Pies with Cinnamon-Orange Glaze,2 hours,,,4.8,https://cookieandkate.com/raspberry-hand-pies-recipe/
+74,Blueberry Lemon Yogurt Cake,1 hour 5 minutes,,,4.8,https://cookieandkate.com/blueberry-lemon-yogurt-cake-recipe/
+75,Almond Cake with Roasted Strawberries & Rhubarb on Top,55 minutes,,,4.9,https://cookieandkate.com/strawberry-rhubarb-almond-cake/
+76,Maple-Sweetened Banana Muffins,35 minutes,American,Baked goods,4.9,https://cookieandkate.com/healthy-banana-muffins-recipe/
+77,"Peanut Butter, Banana, Honey & Oat Chocolate Chip Cookies!",30 minutes,,,4.8,https://cookieandkate.com/peanut-butter-banana-honey-oat-chocolate-chip-cookies/
+78,"Brown Butter, Honey and Jalapeño Skillet Cornbread",40 minutes,Southern,Quick bread,5.0,https://cookieandkate.com/brown-butter-honey-and-jalapeno-skillet-cornbread/
+79,Blueberry Honey Bran Muffins,30 minutes,,,4.9,https://cookieandkate.com/blueberry-honey-bran-muffins/
+80,"Honey Almond Cake with Raspberries, Orange and Pistachios",55 minutes,,,4.7,https://cookieandkate.com/gluten-free-honey-almond-cake/
+81,Maple Peanut Butter Chocolate Chip Oatmeal Cookies!,25 minutes,,,4.9,https://cookieandkate.com/maple-sweetened-peanut-butter-chocolate-chip-oatmeal-cookies/
+82,Vegan Banana Nut Scones,30 minutes,,,4.8,https://cookieandkate.com/vegan-banana-nut-scones/
+83,The Very Best Brownies.,40 minutes,American,Dessert,4.4,https://cookieandkate.com/the-very-best-brownies/
+84,Double Lemon Poppy Seed Muffins,31 minutes,,,4.8,https://cookieandkate.com/double-lemon-poppy-seed-muffins/
+85,Pumpkin Pecan Scones with Maple Glaze,30 minutes,American,Breakfast,4.8,https://cookieandkate.com/pumpkin-pecan-scones-with-maple-glaze/
+86,Orange Poppy Seed Pound Cake,1 hour 10 minutes,,,4.9,https://cookieandkate.com/orange-poppy-seed-pound-cake/
+87,Gluten-Free Chocolate Chip Cookies,21 minutes,,,4.2,https://cookieandkate.com/gluten-free-chocolate-chip-cookies/
+88,Banana Trail Mix Bread,1 hour 10 minutes,,,4.9,https://cookieandkate.com/banana-trail-mix-bread/
+89,Cranberry-Maple Skillet Cornbread,45 minutes,American,Quick Bread,4.6,https://cookieandkate.com/cranberry-maple-skillet-cornbread/
+90,Pumpkin Pecan Polvorones (Mexican Wedding Cookies),40 minutes,Mexican,Cookie,4.5,https://cookieandkate.com/pumpkin-pecan-polvorones-mexican-wedding-cookies/
+91,Peach Crisps,30 minutes,,,5.0,https://cookieandkate.com/peach-crisps/
+92,Blueberry Maple Tea Cake,33 minutes,,,4.4,https://cookieandkate.com/blueberry-maple-tea-cake/
+93,Quick Molasses Bread // Notes on Baking with Natural Sweeteners,55 minutes,,,4.7,https://cookieandkate.com/whole-wheat-molasses-bread/
+94,Spicy Molasses Cookies,30 minutes,American,Dessert,5.0,https://cookieandkate.com/spicy-molasses-cookies/
+95,Maple Oat Chocolate Chip Cookies,55 minutes,,,5.0,https://cookieandkate.com/my-perfect-whole-grain-chocolate-chip-cookies/
+96,Individual Pear and Apple Crisps,40 minutes,,,4.8,https://cookieandkate.com/individual-pear-and-apple-crisps/
+97,Apple Oatmeal Muffins,26 minutes,,,4.8,https://cookieandkate.com/apple-oatmeal-muffins/
+98,Honey Whole Wheat Pumpkin Bread,1 hour 10 minutes,,,4.6,https://cookieandkate.com/whole-wheat-pumpkin-bread/
+99,Dark Chocolate Zucchini Brownies,45 minutes,,,4.8,https://cookieandkate.com/healthy-zucchini-brownies-recipe/
+100,Nectarine Cupcakes,35 minutes,,,5.0,https://cookieandkate.com/nectarine-cupcakes/
+101,Cherry Chocolate Cake,55 minutes,,,4.7,https://cookieandkate.com/healthy-cherry-chocolate-cake/
+102,Blackberry Peach Galette,2 hours 10 minutes,,,4.0,https://cookieandkate.com/blackberry-peach-galette-recipe/
+103,Blueberry Lemon Scones,35 minutes,,,4.9,https://cookieandkate.com/healthy-lemon-blueberry-scones/
+104,Honey Whole Wheat Banana Bread,1 hour 5 minutes,,,4.8,https://cookieandkate.com/honey-whole-wheat-banana-bread/
+105,Chocolate Chip Banana Cookies,22 minutes,,,4.9,https://cookieandkate.com/chocolate-chip-banana-cookies/
+106,Blueberry Lemon Muffins,35 minutes,,,4.9,https://cookieandkate.com/healthy-blueberry-muffins-recipe/
+107,Rosemary & Feta Beer Bread Biscuits,35 minutes,,,5.0,https://cookieandkate.com/rosemary-feta-beer-bread-biscuit-recipe/
+108,Pumpkin Cookies,30 minutes,,,5.0,https://cookieandkate.com/pumpkin-cookie-recipe/
+109,Strawberry Oat Muffins,40 minutes,American,Muffins,4.7,https://cookieandkate.com/strawberry-oat-muffins-recipe/
+110,Simple Breakfast Quesadillas,25 minutes,Mexican,Entree,5.0,https://cookieandkate.com/simple-breakfast-quesadillas-recipe/
+111,Homemade Bloody Marys,10 minutes,American,Cocktail,4.4,https://cookieandkate.com/homemade-bloody-mary-recipe/
+112,How to Make Frittatas (Stovetop or Baked),45 minutes,Italian,Breakfast,5.0,https://cookieandkate.com/best-frittata-recipe/
+113,Basic Blueberry Smoothie,5 minutes,American,Smoothie,4.9,https://cookieandkate.com/best-blueberry-smoothie-recipe/
+114,No-Bake Greek Yogurt Tart,30 minutes,American,Dessert,5.0,https://cookieandkate.com/no-bake-greek-yogurt-tart-recipe/
+115,Healthy Blueberry Muffins,35 minutes,American,Muffin,4.9,https://cookieandkate.com/healthy-blueberry-muffins/
+116,Tropical Acai Bowl,10 minutes,Brazilian,Breakfast,4.7,https://cookieandkate.com/tropical-acai-bowl-recipe/
+117,Easy Gluten Free Oat Waffles,25 minutes,Gluten free,Breakfast,4.8,https://cookieandkate.com/easy-gluten-free-oat-waffles/
+118,How to Make Almond Butter,25 minutes,American,Nut Butter,4.8,https://cookieandkate.com/homemade-almond-butter-recipe/
+119,Vegetarian Breakfast Burritos,45 minutes,Mexican,Breakfast,4.9,https://cookieandkate.com/vegetarian-breakfast-burritos-recipe/
+120,Delicious Crispy Hash Browns,30 minutes,American,Breakfast,4.6,https://cookieandkate.com/crispy-hash-browns-recipe/
+121,Orange & Almond Granola,30 minutes,Mediterranean,Breakfast,4.9,https://cookieandkate.com/orange-almond-granola-recipe/
+122,The Best Mimosa (Plus Tips & Variations!),5 minutes,American,Cocktail,4.7,https://cookieandkate.com/best-mimosa-recipe/
+123,Whole Wheat Pancake Mix,5 minutes,American,Breakfast,4.3,https://cookieandkate.com/whole-wheat-pancake-mix/
+124,Whole Wheat Pancakes,30 minutes,American,Breakfast,4.9,https://cookieandkate.com/whole-wheat-pancakes-recipe/
+125,Goat Cheese Polenta with Roasted Vegetables,1 hour,Vegetarian,Breakfast,4.9,https://cookieandkate.com/vegetable-goat-cheese-polenta-recipe/
+126,Homemade Bircher Muesli,10 minutes,Swiss,Breakfast,4.7,https://cookieandkate.com/homemade-bircher-muesli-recipe/
+127,Pumpkin Pancakes,25 minutes,American,Breakfast,4.9,https://cookieandkate.com/pumpkin-pancakes-recipe/
+128,How to Make Applesauce,30 minutes,American,Side,4.8,https://cookieandkate.com/how-to-make-applesauce/
+129,Overnight Oats (Recipe & Tips),5 minutes,Gluten free,Breakfast,4.8,https://cookieandkate.com/overnight-oats-recipe/
+130,Cherry Pecan Muesli,25 minutes,American,Breakfast,5.0,https://cookieandkate.com/cherry-pecan-muesli-recipe/
+131,Pecan Granola Bars,25 minutes,American,Snack,4.9,https://cookieandkate.com/pecan-granola-bars-recipe/
+132,Healthy Zucchini Muffins,36 minutes,American,Baked good,4.7,https://cookieandkate.com/healthy-zucchini-muffins-recipe/
+133,Fresh Huevos Rancheros,45 minutes,Mexican,Breakfast,4.8,https://cookieandkate.com/huevos-rancheros-recipe/
+134,Gluten-Free Banana Oat Waffles,35 minutes,American,Breakfast,5.0,https://cookieandkate.com/gluten-free-banana-oat-waffles/
+135,Avocado Pesto Toast,20 minutes,Mediterranean,Breakfast,4.9,https://cookieandkate.com/avocado-pesto-toast-recipe/
+136,My Favorite Chia Seed Pudding,1 hour 5 mins,Vegan,Dessert,4.3,https://cookieandkate.com/chia-seed-pudding-recipe/
+137,"Broccoli, Cheddar & Spinach Frittata",40 minutes,American,Breakfast,4.9,https://cookieandkate.com/broccoli-cheddar-spinach-frittata/
+138,The Easiest Berry Chia Jam,10 minutes (Plus 3 hours chill time),Vegan,Condiment,4.9,https://cookieandkate.com/berry-chia-seed-jam-recipe/
+139,Cinnamon Toast Breakfast Quinoa,10 minutes,Vegan,Breakfast,4.9,https://cookieandkate.com/cinnamon-breakfast-quinoa-recipe/
+140,Whole Wheat Gingerbread Pancakes,35 minutes,American,Breakfast,4.5,https://cookieandkate.com/whole-wheat-gingerbread-pancakes/
+141,Apple Steel-Cut Oatmeal,45 minutes,American,Breakfast,4.8,https://cookieandkate.com/apple-steel-cut-oatmeal-recipe/
+142,Healthy Pumpkin Bread!,1 hour 5 minutes,American,Quick Bread,4.8,https://cookieandkate.com/healthy-pumpkin-bread-recipe/
+143,Almond Coconut Granola Bars,15 mins,,,4.8,https://cookieandkate.com/almond-coconut-granola-bars/
+144,Watermelon Mimosas,10 mins,American,Cocktail,5.0,https://cookieandkate.com/watermelon-mimosas/
+145,Triple Coconut Granola,30 minutes,,,4.9,https://cookieandkate.com/triple-coconut-granola-recipe/
+146,Healthy Zucchini Bread,1 hour 10 minutes,American,Baked good,4.6,https://cookieandkate.com/healthy-zucchini-bread-recipe/
+147,Tex-Mex Breakfast Bowls,35 minutes,Mexican,Breakfast,4.9,https://cookieandkate.com/tex-mex-breakfast-bowl-recipe/
+148,Roasted Breakfast Potatoes,1 hour,American,Breakfast,4.9,https://cookieandkate.com/roasted-breakfast-potatoes-recipe/
+149,Clumpy Granola with Stewed Rhubarb from Chickpea Flour Does It All,45 minutes,,,4.8,https://cookieandkate.com/clumpy-granola-recipe/
+150,Lemon Raspberry Muffins,32 minutes,American,Baked goods,4.8,https://cookieandkate.com/healthy-raspberry-muffins-recipe/
+151,Blueberry Baked Oatmeal,50 minutes,American,Breakfast,4.8,https://cookieandkate.com/baked-oatmeal-recipe/
+152,Creamy Chia Pudding,20 mins,,,4.9,https://cookieandkate.com/creamy-chia-pudding-recipe/
+153,Honey Lemon Curd,25 minutes,American,Dessert,4.8,https://cookieandkate.com/lemon-curd-recipe/
+154,Savory Steel Cut Oatmeal,45 minutes,American,Breakfast,5.0,https://cookieandkate.com/savory-steel-cut-oatmeal-recipe/
+155,Healthy Apple Muffins,28 minutes,American,Muffins,4.8,https://cookieandkate.com/healthy-apple-muffins-recipe/
+156,Perfect Steel-Cut Oats,40 mins,Irish,Breakfast,4.8,https://cookieandkate.com/perfect-steel-cut-oats-recipe/
+157,Healthy Carrot Muffins,28 minutes,American,Baked goods,4.7,https://cookieandkate.com/healthy-carrot-muffins-recipe/
+158,Cranberry Orange Granola Bars,15 mins,,,4.9,https://cookieandkate.com/cranberry-orange-granola-bars/
+159,Lemony Roasted Potatoes & Broccoli Rabe,45 minutes,Italian,Side dish,5.0,https://cookieandkate.com/lemony-roasted-potatoes-broccoli-rabe-recipe/
+160,Apple Oatmeal Pancakes & News!!!,15 minutes,,,4.5,https://cookieandkate.com/apple-oatmeal-pancakes-recipe/
+161,"Toasted Muesli with Almonds, Coconut and Dark Chocolate",25 minutes,American,Breakfast,4.9,https://cookieandkate.com/toasted-muesli-recipe/
+162,Austin-Style Migas with Black Beans,35 minutes,Tex-Mex,Breakfast,4.8,https://cookieandkate.com/migas-recipe/
+163,Maple-Sweetened Banana Muffins,35 minutes,American,Baked goods,4.9,https://cookieandkate.com/healthy-banana-muffins-recipe/
+164,Super Simple Vegan Pancakes,20 minutes,Vegan,Breakfast,4.8,https://cookieandkate.com/simple-vegan-pancake-recipe/
+165,Cranberry Orange Granola,35 minutes,,,5.0,https://cookieandkate.com/cranberry-orange-granola-recipe/
+166,Gluten-Free Buckwheat Waffles,20 minutes,Gluten free,Breakfast,4.7,https://cookieandkate.com/gluten-free-buckwheat-waffles/
+167,Butternut Squash Frittata with Fried Sage,45 minutes,,,4.9,https://cookieandkate.com/butternut-squash-frittata-with-fried-sage/
+168,Whole Grain Pumpkin Spice Waffles,25 minutes,American,Breakfast,4.8,https://cookieandkate.com/gluten-free-pumpkin-spice-waffles/
+169,"Caramelized Sweet Potato, Red Pepper and Feta Frittata",45 minutes,,,4.8,https://cookieandkate.com/sweet-potato-red-pepper-feta-frittata/
+170,Freezer Breakfast Burritos with Sweet Potato Hash and Black Beans,45 minutes,Mexican,Breakfast,4.8,https://cookieandkate.com/healthy-freezer-breakfast-burritos-with-sweet-potato-hash/
+171,Caramelized Peach and Oat Pancakes,30 minutes,,,5.0,https://cookieandkate.com/gluten-free-peach-pancakes/
+172,Erin’s Baked Eggs on a Bed of Roasted Cherry Tomatoes,25 minutes,American,Breakfast,4.9,https://cookieandkate.com/baked-eggs-on-roasted-cherry-tomatoes/
+173,Veggie Breakfast Tacos,35 minutes,Mexican,Breakfast,4.7,https://cookieandkate.com/veggie-breakfast-tacos/
+174,Blueberry Honey Bran Muffins,30 minutes,,,4.9,https://cookieandkate.com/blueberry-honey-bran-muffins/
+175,Simple Goat Cheese and Egg Toasts with Fresh Peas and Dill,10 minutes,,,4.3,https://cookieandkate.com/simple-goat-cheese-and-egg-toasts-with-peas-and-dill/
+176,Breakfast Quesadillas with Spinach and Black Beans,25 minutes,Mexican,Breakfast,4.7,https://cookieandkate.com/breakfast-quesadillas-with-scrambled-eggs-spinach-and-black-beans/
+177,Vegan Banana Nut Scones,30 minutes,,,4.8,https://cookieandkate.com/vegan-banana-nut-scones/
+178,Double Lemon Poppy Seed Muffins,31 minutes,,,4.8,https://cookieandkate.com/double-lemon-poppy-seed-muffins/
+179,Toasted Oatmeal with Strawberry Chia Jam and Coconut Whipped Cream,35 minutes,,,4.9,https://cookieandkate.com/toasted-oatmeal-strawberry-chia-jam-coconut-whipped-cream/
+180,Megan’s Morning Glory Oatmeal,40 minutes,,,4.8,https://cookieandkate.com/morning-glory-oatmeal/
+181,Banana Baked French Toast with Peanut Butter Drizzle,1 hour 30 minutes,,,3.0,https://cookieandkate.com/banana-baked-french-toast-peanut-butter-drizzle/
+182,Arugula and Cremini Quiche with Gluten-Free Almond Meal Crust,1 hour 15 minutes,,,4.8,https://cookieandkate.com/arugula-and-cremini-quiche-with-gluten-free-almond-meal-crust/
+183,Huevos Rancheros with Avocado Salsa Verde,35 minutes,Mexican,Breakfast,4.9,https://cookieandkate.com/huevos-rancheros-avocado-salsa-verde/
+184,Pumpkin Pecan Scones with Maple Glaze,30 minutes,American,Breakfast,4.8,https://cookieandkate.com/pumpkin-pecan-scones-with-maple-glaze/
+185,Pumpkin Oat Pancakes,25 minutes,American,Breakfast,4.5,https://cookieandkate.com/pumpkin-oat-pancakes/
+186,Banana Nut Waffles,20 minutes,,,4.8,https://cookieandkate.com/banana-nut-waffles/
+187,Honey Almond Granola,30 minutes,American,Breakfast,4.8,https://cookieandkate.com/honey-almond-granola/
+188,Buckwheat Pancakes,25 minutes,Gluten free,Breakfast,4.7,https://cookieandkate.com/buckwheat-pancakes/
+189,Tex-Mex Omelet with Roasted Cherry Tomato Salsa,40 minutes,Mexican,Breakfast,5.0,https://cookieandkate.com/tex-mex-omelet-with-roasted-cherry-tomato-salsa/
+190,Gingerbread Granola,40 minutes,,,4.8,https://cookieandkate.com/gingerbread-granola/
+191,Banana Trail Mix Bread,1 hour 10 minutes,,,4.9,https://cookieandkate.com/banana-trail-mix-bread/
+192,Broiled Grapefruit with Honey Yogurt and Granola,20 minutes,,,4.8,https://cookieandkate.com/broiled-grapefruit-with-honey-yogurt-and-granola/
+193,Baby Spinach Frittata with Sweet Potato Hash Crust,45 minutes,,,4.9,https://cookieandkate.com/baby-spinach-frittata-with-sweet-potato-hash-crust/
+194,Maple Cinnamon Applesauce,35 minutes,,,5.0,https://cookieandkate.com/maple-cinnamon-applesauce/
+195,Peach Crisps,30 minutes,,,5.0,https://cookieandkate.com/peach-crisps/
+196,Blueberry Lemon Yogurt Pancakes,35 minutes,,,4.6,https://cookieandkate.com/blueberry-lemon-yogurt-pancakes/
+197,Carrot Cake Pancakes,25 minutes,American,Breakfast,4.9,https://cookieandkate.com/carrot-cake-pancakes/
+198,Buckwheat and Spelt Crepes,22 minutes,,,5.0,https://cookieandkate.com/buckwheat-and-spelt-crepes-recipe/
+199,Baked Asparagus Frittata,35 minutes,Vegetarian,Entree,4.9,https://cookieandkate.com/baked-asparagus-frittata/
+200,Banana Oat Pancakes,25 minutes,Gluten free,Breakfast,4.9,https://cookieandkate.com/banana-oat-pancakes/
+201,Cranberry Orange Steel Cut Oats,32 minutes,,,4.9,https://cookieandkate.com/cranberry-orange-steel-cut-oats/
+202,Egg and Potato Breakfast Scramble,25 minutes,,,4.3,https://cookieandkate.com/egg-and-potato-breakfast-scramble/
+203,Whole Wheat Coconut Waffles,25 minutes,,,4.0,https://cookieandkate.com/whole-wheat-coconut-waffles/
+204,Breakfast Enchiladas with Roasted Poblano Sauce,55 minutes,,,4.8,https://cookieandkate.com/egg-enchiladas-with-roasted-poblano-sauce/
+205,Honey Whole Wheat Pumpkin Bread,1 hour 10 minutes,,,4.6,https://cookieandkate.com/whole-wheat-pumpkin-bread/
+206,Scrambled Huevos Rancheros,8 minutes,Mexican,Breakfast,5.0,https://cookieandkate.com/scrambled-huevos-rancheros/
+207,Whole Wheat Waffles with Blueberry Ginger Syrup,25 minutes,,,4.6,https://cookieandkate.com/whole-wheat-waffles-recipe/
+208,Banana Almond Smoothie,5 minutes,,,4.9,https://cookieandkate.com/banana-almond-smoothie/
+209,Baked Oatmeal with Blackberries & Coconut,1 hour,,,4.9,https://cookieandkate.com/healthy-baked-oatmeal/
+210,Blueberry Lemon Scones,35 minutes,,,4.9,https://cookieandkate.com/healthy-lemon-blueberry-scones/
+211,Honey Whole Wheat Banana Bread,1 hour 5 minutes,,,4.8,https://cookieandkate.com/honey-whole-wheat-banana-bread/
+212,Breakfast Quinoa,5 mins,,,5.0,https://cookieandkate.com/breakfast-quinoa/
+213,Blueberry Lemon Muffins,35 minutes,,,4.9,https://cookieandkate.com/healthy-blueberry-muffins-recipe/
+214,Coconut Pancakes,25 minutes,,,4.9,https://cookieandkate.com/coconut-pancakes-recipe/
+215,Baked Frittata,25 minutes,Italian,"Main, Side",4.9,https://cookieandkate.com/baked-frittata/
+216,Gluten-Free Apple Tart,1 hour 5 minutes,Gluten free,Dessert,4.8,https://cookieandkate.com/gluten-free-apple-tart-recipe/
+217,Buckwheat Double Chocolate Cookies,35 minutes,,,4.9,https://cookieandkate.com/gluten-free-double-chocolate-cookies/
+218,Healthier Strawberry Shortcake,50 minutes,,,5.0,https://cookieandkate.com/healthier-strawberry-shortcake-recipe/
+219,Gluten-Free Peach Crisp,50 minutes,American,Dessert,4.8,https://cookieandkate.com/gluten-free-peach-crisp-recipe/
+220,Creamy Chia Pudding,20 mins,,,4.9,https://cookieandkate.com/creamy-chia-pudding-recipe/
+221,Honey Lemon Curd,25 minutes,American,Dessert,4.8,https://cookieandkate.com/lemon-curd-recipe/
+222,Citrus Olive Oil Cake,1 hour 10 minutes,,,4.9,https://cookieandkate.com/citrus-olive-oil-cake-recipe/
+223,Raspberry Hand Pies with Cinnamon-Orange Glaze,2 hours,,,4.8,https://cookieandkate.com/raspberry-hand-pies-recipe/
+224,Creamy Peach & Honey Popsicles,40 minutes,,,5.0,https://cookieandkate.com/peach-honey-popsicles-recipe/
+225,Blueberry Almond Crisp,55 minutes,American,Dessert,4.9,https://cookieandkate.com/blueberry-almond-crisp/
+226,Blueberry Lemon Yogurt Cake,1 hour 5 minutes,,,4.8,https://cookieandkate.com/blueberry-lemon-yogurt-cake-recipe/
+227,Mango Lassi Frozen Yogurt,50 minutes,Indian,Dessert,4.1,https://cookieandkate.com/mango-lassi-frozen-yogurt/
+228,Almond Cake with Roasted Strawberries & Rhubarb on Top,55 minutes,,,4.9,https://cookieandkate.com/strawberry-rhubarb-almond-cake/
+229,Tahini Date Shake & Tel Aviv,5 mins,Middle Eastern,Dessert,5.0,https://cookieandkate.com/tahini-date-shake/
+230,Easy Salted Oat Fudge,20 minutes,American,Dessert,4.9,https://cookieandkate.com/easy-salted-fudge-recipe/
+231,Cinnamon Maple Caramel Popcorn,25 minutes,,,4.9,https://cookieandkate.com/healthy-maple-caramel-popcorn/
+232,"Plum Crisp with Pistachio, Oat and Almond Meal Topping",1 hour 15 minutes,,,5.0,https://cookieandkate.com/gluten-free-plum-crisp/
+233,Salted Peanut Butter and Honey Ice Cream,10 minutes,American,Dessert,4.7,https://cookieandkate.com/salted-peanut-butter-and-honey-ice-cream/
+234,"Honey Almond Cake with Raspberries, Orange and Pistachios",55 minutes,,,4.7,https://cookieandkate.com/gluten-free-honey-almond-cake/
+235,Chai Affogato (with Honey-Sweetened Coconut Milk Ice Cream),25 minutes (plus 6 hour chill time),,,5.0,https://cookieandkate.com/chai-affogato-with-honey-sweetened-coconut-milk-ice-cream/
+236,The Very Best Brownies.,40 minutes,American,Dessert,4.4,https://cookieandkate.com/the-very-best-brownies/
+237,Pear Cranberry Crisp,1 hour 10 minutes,American,Dessert,4.8,https://cookieandkate.com/pear-cranberry-crisp/
+238,Blueberry Frozen Yogurt,1 hour,American,Dessert,5.0,https://cookieandkate.com/blueberry-frozen-yogurt/
+239,Balsamic Stone Fruit Sundae,45 minutes,,,5.0,https://cookieandkate.com/balsamic-stone-fruit-sundae/
+240,Strawberry Rhubarb Crisp,1 hour 10 minutes,American,Dessert,5.0,https://cookieandkate.com/strawberry-rhubarb-crisp/
+241,Chai Coconut Ice Cream,25 minutes,Indian,Dessert,4.8,https://cookieandkate.com/chai-coconut-ice-cream/
+242,Orange Poppy Seed Pound Cake,1 hour 10 minutes,,,4.9,https://cookieandkate.com/orange-poppy-seed-pound-cake/
+243,Peppermint Bark Popcorn,20 minutes,American,Dessert,5.0,https://cookieandkate.com/peppermint-bark-popcorn/
+244,Maple Cinnamon Applesauce,35 minutes,,,5.0,https://cookieandkate.com/maple-cinnamon-applesauce/
+245,Peach Crisps,30 minutes,,,5.0,https://cookieandkate.com/peach-crisps/
+246,Roasted Berry and Honey Yogurt Popsicles,35 minutes,,,4.3,https://cookieandkate.com/roasted-berry-and-honey-yogurt-popsicles/
+247,Blueberry Maple Tea Cake,33 minutes,,,4.4,https://cookieandkate.com/blueberry-maple-tea-cake/
+248,Coffee Ice Cream,1 hour,,,3.8,https://cookieandkate.com/coffee-ice-cream/
+249,Blood Orange & Meyer Lemon Curd,12 minutes,,,4.8,https://cookieandkate.com/blood-orange-curd-recipe/
+250,No Cook Fudge,10 minutes,,,4.5,https://cookieandkate.com/easy-vegan-fudge-recipe/
+251,Individual Pear and Apple Crisps,40 minutes,,,4.8,https://cookieandkate.com/individual-pear-and-apple-crisps/
+252,Dark Chocolate Zucchini Brownies,45 minutes,,,4.8,https://cookieandkate.com/healthy-zucchini-brownies-recipe/
+253,Vanilla Bean Ice Cream,1 hour,,,5.0,https://cookieandkate.com/vanilla-bean-ice-cream/
+254,Nectarine Cupcakes,35 minutes,,,5.0,https://cookieandkate.com/nectarine-cupcakes/
+255,Cherry Chocolate Cake,55 minutes,,,4.7,https://cookieandkate.com/healthy-cherry-chocolate-cake/
+256,Blackberry Peach Galette,2 hours 10 minutes,,,4.0,https://cookieandkate.com/blackberry-peach-galette-recipe/
+257,Watermelon Mint Sorbet,4 hours 10 mins,,,4.0,https://cookieandkate.com/watermelon-mint-sorbet/
+258,Fresh Mint Ice Cream,1 hour 30 minutes,,,4.8,https://cookieandkate.com/light-mint-ice-cream-recipe/
+259,Easy Vegan Parmesan Cheese,3 minutes,Italian,Condiment,4.9,https://cookieandkate.com/easy-vegan-parmesan-cheese-recipe/
+260,Creamy Tahini Dressing,10 minutes,Mediterranean,Salad dressing,4.7,https://cookieandkate.com/creamy-tahini-dressing-recipe/
+261,Classic Pico de Gallo,15 mins,Mexican,Dip,5.0,https://cookieandkate.com/classic-pico-de-gallo-recipe/
+262,Easy Fruit Compote,15 minutes,Classic,"Dessert, sauce",4.9,https://cookieandkate.com/simple-fruit-compote-recipe/
+263,Chunky Avocado Salsa,20 minutes,Mexican,Dip,5.0,https://cookieandkate.com/chunky-avocado-salsa-recipe/
+264,Fresh Mint Dressing,5 minutes,Mediterranean,Salad dressing,4.9,https://cookieandkate.com/fresh-mint-dressing-recipe/
+265,How to Make Vinaigrette (Plus 3 Essential Variations!),5 minutes,French,Salad dressing,4.8,https://cookieandkate.com/how-to-make-vinaigrette-plus-variations/
+266,Fresh Corn Salsa,20 minutes,Mexican,"Salsa, appetizer",4.9,https://cookieandkate.com/fresh-corn-salsa-recipe/
+267,Fresh Jalapeño Relish,20 minutes (plus 1 hour chill time),Mexican,"Sauce, dip",4.9,https://cookieandkate.com/fresh-jalapeno-relish-recipe/
+268,Vegan Sour Cream,10 minutes (plus 4 hours soaking time if needed),Vegan,Sauce,4.8,https://cookieandkate.com/vegan-sour-cream-recipe/
+269,Best Tahini Sauce,20 minutes,Middle Eastern,Sauce,4.9,https://cookieandkate.com/best-tahini-sauce-recipe/
+270,The Best Hummus,40 minutes,Israeli,Dip,4.9,https://cookieandkate.com/best-hummus-recipe/
+271,Zhoug! (Spicy Cilantro Sauce),10 minutes,Middle Eastern,Condiment,4.7,https://cookieandkate.com/zhoug-sauce-recipe/
+272,Quick-Pickled Onions,10 minutes (plus 30 minutes cooling time),Mexican,Condiment,4.9,https://cookieandkate.com/quick-pickled-onions-recipe/
+273,Creamy Avocado Dip,5 minutes,Mexican,Appetizer,4.8,https://cookieandkate.com/creamy-avocado-dip-recipe/
+274,Easy Refried Beans,25 minutes,Mexican,Side Dish,4.9,https://cookieandkate.com/easy-refried-beans-recipe/
+275,Best Red Salsa (Ready in 10 Minutes),10 minutes,Mexican,Sauce,4.8,https://cookieandkate.com/best-red-salsa-recipe/
+276,Super Simple Marinara Sauce,50 minutes,Italian,Sauce,4.8,https://cookieandkate.com/simple-marinara-sauce-recipe/
+277,How to Make Almond Butter,25 minutes,American,Nut Butter,4.8,https://cookieandkate.com/homemade-almond-butter-recipe/
+278,Baked Goat Cheese with Tomato Sauce,40 minutes,Mediterranean,Appetizer,5.0,https://cookieandkate.com/baked-goat-cheese-with-tomato-sauce/
+279,Sunshine Salad Dressing,10 minutes,American,Salad Dressing,5.0,https://cookieandkate.com/healthy-honey-mustard-dressing-recipe/
+280,How to Make Applesauce,30 minutes,American,Side,4.8,https://cookieandkate.com/how-to-make-applesauce/
+281,Epic Baba Ganoush,55 minutes,Lebanese,Appetizer,4.8,https://cookieandkate.com/epic-baba-ganoush-recipe/
+282,Toasted Sesame Hummus,18 minutes,Mediterranean,Appetizer,4.7,https://cookieandkate.com/toasted-sesame-hummus-recipe/
+283,Baked Spinach Artichoke Dip,45 minutes,Mediterranean,Appetizer,4.8,https://cookieandkate.com/baked-spinach-artichoke-dip-recipe/
+284,Corn & Cherry Tomato Salsa,1 hour,Mexican,Sauce,5.0,https://cookieandkate.com/corn-cherry-tomato-salsa-recipe/
+285,Edamame Hummus,20 minutes,Vegan,Appetizer,4.8,https://cookieandkate.com/edamame-hummus-recipe/
+286,Fresh Black Bean Salad,20 minutes,Southwestern,Salad,4.9,https://cookieandkate.com/black-bean-salad-recipe/
+287,Classic Chimichurri Sauce,10 minutes,Argentine,Sauce,4.5,https://cookieandkate.com/chimichurri-recipe/
+288,How to Make Pesto,15 mins,Italian,Sauce,4.9,https://cookieandkate.com/how-to-make-basil-pesto/
+289,Mediterranean Tomato & Feta Dip,20 minutes,Mediterranean,Appetizer,5.0,https://cookieandkate.com/tomato-feta-dip-recipe/
+290,Creamy Vegan Queso,30 minutes,Mexican,Appetizer,4.8,https://cookieandkate.com/vegan-queso-recipe/
+291,Shatta (Middle Eastern Hot Sauce),15 mins,Middle Eastern,Condiment,4.8,https://cookieandkate.com/shatta-middle-eastern-jalapeno-sauce/
+292,Carrot Ginger Dressing,10 mins,Asian,Salad dressing,4.8,https://cookieandkate.com/carrot-ginger-dressing-recipe/
+293,Strawberry Salsa,10 mins,Mexican,Appetizer,5.0,https://cookieandkate.com/strawberry-salsa-recipe/
+294,The Easiest Berry Chia Jam,10 minutes (Plus 3 hours chill time),Vegan,Condiment,4.9,https://cookieandkate.com/berry-chia-seed-jam-recipe/
+295,Spicy Quick-Pickled Veggies,20 minutes,Mexican,Condiment,4.5,https://cookieandkate.com/spicy-quick-pickled-vegetables-recipe/
+296,Fresh Seven-Layer Dip,30 minutes,Mexican,Appetizer,5.0,https://cookieandkate.com/fresh-seven-layer-dip-recipe/
+297,Kale Guacamole,15 mins,Mexican,Appetizer,5.0,https://cookieandkate.com/kale-guacamole-recipe/
+298,How to Make Enchilada Sauce,10 minutes,Mexican,Condiment,4.8,https://cookieandkate.com/enchilada-sauce-recipe/
+299,Honey Lemon Curd,25 minutes,American,Dessert,4.8,https://cookieandkate.com/lemon-curd-recipe/
+300,Homemade Salsa Verde,20 minutes,Mexican,Salsa,4.9,https://cookieandkate.com/homemade-salsa-verde-recipe/
+301,Peanut Dipping Sauce,5 mins,Asian,Sauce,4.7,https://cookieandkate.com/peanut-dipping-sauce/
+302,Cowboy Caviar,15 mins,Southern,Appetizer,4.8,https://cookieandkate.com/cowboy-caviar-recipe/
+303,Basil Pesto Salad Dressing,5 mins,Italian,Salad dressing,4.4,https://cookieandkate.com/basil-pesto-vinaigrette-recipe/
+304,Fresh Mango Salsa,15 mins,Mexican,Salsa,4.9,https://cookieandkate.com/fresh-mango-salsa-recipe/
+305,Green Goddess Hummus,8 minutes,Lebanese,Appetizer,4.9,https://cookieandkate.com/green-goddess-hummus-recipe/
+306,Festive Pomegranate Guacamole,20 mins,Mexican,Appetizer,4.8,https://cookieandkate.com/festive-pomegranate-guacamole/
+307,Quick Pickled Peppers,25 minutes,Mexican,Pickles,4.9,https://cookieandkate.com/quick-pickled-peppers-recipe/
+308,Spicy Quick Pickled Radishes,12 minutes,Mexican,Condiments,4.8,https://cookieandkate.com/spicy-quick-pickled-radishes/
+309,Rhubarb Chia Jam,30 minutes,,,4.6,https://cookieandkate.com/rhubarb-chia-jam/
+310,Super Kale Pesto,13 minutes,Italian,Entree,4.8,https://cookieandkate.com/super-kale-pesto-recipe/
+311,Pecan Butter,15 mins,American,Condiment,4.8,https://cookieandkate.com/pecan-butter-recipe/
+312,Baked Mediterranean Feta Dip,20 minutes,Mediterranean,Appetizer,5.0,https://cookieandkate.com/mediterranean-feta-dip/
+313,Arugula Walnut Pesto,15 minutes,Italian,Sauce,4.6,https://cookieandkate.com/arugula-walnut-pesto/
+314,Black Bean Salsa,15 minutes,Mexican,Sauce,5.0,https://cookieandkate.com/black-bean-salsa-recipe/
+315,Spicy Black Bean Soup,55 minutes,Vegan,Soup,4.8,https://cookieandkate.com/spicy-vegan-black-bean-soup/
+316,Thai Panang Curry with Vegetables,45 minutes,Thai,Main dish,4.9,https://cookieandkate.com/thai-panang-curry-recipe/
+317,How to Make Crispy Baked Tofu,40 minutes,Asian,"Protein, side",4.8,https://cookieandkate.com/how-to-make-crispy-baked-tofu/
+318,Homemade Vegetarian Chili,1 hour,American,Chili,4.9,https://cookieandkate.com/vegetarian-chili-recipe/
+319,Quinoa Vegetable Soup with Kale,1 hour,American,Soup,4.9,https://cookieandkate.com/quinoa-vegetable-soup-recipe/
+320,Roasted Cauliflower and Farro Salad with Feta and Avocado,45 minutes,Mediterranean,Salad,4.9,https://cookieandkate.com/roasted-cauliflower-and-farro-salad-with-feta-and-avocado/
+321,Best Lentil Soup,55 minutes,Mediterranean,Soup,4.9,https://cookieandkate.com/best-lentil-soup-recipe/
+322,"Hearty Sweet Potato, Arugula & Wild Rice Salad with Ginger Dressing",1 hour 10 minutes,American,Salad,5.0,https://cookieandkate.com/sweet-potato-arugula-wild-rice-salad-recipe/
+323,Vegetarian Stuffed Acorn Squash,1 hour,American,Main dish,4.9,https://cookieandkate.com/vegetarian-stuffed-acorn-squash-recipe/
+324,Arugula and Wild Rice Salad with Zippy Lemon Dressing,55 minutes,American,Salad,5.0,https://cookieandkate.com/arugula-wild-rice-salad-recipe/
+325,Roasted Brussels Sprouts and Crispy Baked Tofu with Honey-Sesame Glaze,1 hour,Asian,Entree,4.8,https://cookieandkate.com/roasted-brussels-sprouts-and-crispy-baked-tofu-with-honey-sesame-glaze/
+326,Megan’s Wild Rice & Kale Salad,50 minutes,Vegetarian,Salad,4.6,https://cookieandkate.com/wild-rice-kale-salad-recipe/
+327,Spicy Kale and Coconut Fried Rice,35 minutes,Thai,Main,4.9,https://cookieandkate.com/spicy-kale-and-coconut-fried-rice/
+328,Simple Breakfast Tostadas,40 minutes,Mexican,Breakfast,4.9,https://cookieandkate.com/simple-breakfast-tostadas-recipe/
+329,Fattoush Salad with Mint Dressing,35 minutes,Lebanese,Salad,4.9,https://cookieandkate.com/fattoush-salad-recipe-with-mint-dressing/
+330,Avocado Toast (Plus Tips & Variations),5 minutes,American,"Breakfast, Snack",4.9,https://cookieandkate.com/avocado-toast-recipe/
+331,The Creamiest Scrambled Eggs (with Goat Cheese),25 minutes,Vegetarian,Entree,4.9,https://cookieandkate.com/creamy-scrambled-eggs-recipe/
+332,Caprese Pasta Salad,15 minutes,Italian,Entree,4.9,https://cookieandkate.com/caprese-pasta-salad/
+333,Simple Breakfast Quesadillas,25 minutes,Mexican,Entree,5.0,https://cookieandkate.com/simple-breakfast-quesadillas-recipe/
+334,Crispy Falafel,50 minutes (plus 4-hour soaking time),Middle Eastern,Appetizer,4.5,https://cookieandkate.com/crispy-falafel-recipe/
+335,How to Make Frittatas (Stovetop or Baked),45 minutes,Italian,Breakfast,5.0,https://cookieandkate.com/best-frittata-recipe/
+336,Loaded Veggie Nachos,25 minutes,Mexican,Appetizer,5.0,https://cookieandkate.com/loaded-veggie-nachos-recipe/
+337,Epic Vegetarian Tacos,1 hour,Mexican,Entree,4.9,https://cookieandkate.com/epic-vegetarian-tacos-recipe/
+338,Thai-Spiced Rice Bowls,30 minutes,Thai,Soup,4.7,https://cookieandkate.com/thai-spiced-rice-bowls-recipe/
+339,Real Stovetop Mac and Cheese,20 minutes,American,Entree,4.5,https://cookieandkate.com/stovetop-mac-and-cheese-recipe/
+340,Pinto Posole,55 minutes,Mexican,Soup,4.9,https://cookieandkate.com/pinto-posole-recipe/
+341,Masala Lentil Salad with Cumin Roasted Carrots,55 minutes,Indian-inspired,Salad,5.0,https://cookieandkate.com/masala-lentil-salad-with-cumin-roasted-carrots/
+342,Jessica’s Marinated Chickpeas,15 minutes (plus 30 minute optional marinating time),Mediterranean,Salad,4.9,https://cookieandkate.com/marinated-chickpeas-recipe/
+343,Hearty Spaghetti with Lentils & Marinara Sauce,35 minutes,Italian,Entree,5.0,https://cookieandkate.com/hearty-spaghetti-with-lentils-marinara/
+344,Super Simple Marinara Sauce,50 minutes,Italian,Sauce,4.8,https://cookieandkate.com/simple-marinara-sauce-recipe/
+345,Vegetarian Breakfast Burritos,45 minutes,Mexican,Breakfast,4.9,https://cookieandkate.com/vegetarian-breakfast-burritos-recipe/
+346,Roasted & Raw Carrot Salad with Avocado,50 minutes,American,Salad,4.9,https://cookieandkate.com/roasted-raw-carrot-salad-recipe/
+347,Spaghetti Squash “Pizza” Bowls,1 hour 20 minutes,Italian,Entree,4.9,https://cookieandkate.com/spaghetti-squash-pizza-bowls-recipe/
+348,Classic Minestrone Soup,1 hour 5 minutes,Italian,Soup,4.9,https://cookieandkate.com/classic-minestrone-soup-recipe/
+349,"Orange Orzo Salad with Almonds, Feta and Olives",25 minutes (plus 10 minutes for marinating),Mediterranean,Salad,5.0,https://cookieandkate.com/orange-orzo-salad-recipe/
+350,Best Vegetable Lasagna,1 hour (plus 15 minutes cooling time),Italian,Entree,4.8,https://cookieandkate.com/best-vegetable-lasagna-recipe/
+351,Black Bean Sweet Potato Enchiladas,1 hour 20 minutes,Mexican,Entree,4.9,https://cookieandkate.com/black-bean-sweet-potato-enchiladas/
+352,"Sweet Potato, Kale and Chickpea Soup",45 minutes,American,Soup,4.8,https://cookieandkate.com/sweet-potato-kale-and-chickpea-soup/
+353,Steel-Cut Oat “Risotto” with Butternut Squash and Kale,1 hour,Italian,Entree,4.6,https://cookieandkate.com/steel-cut-oat-risotto-recipe/
+354,Creamy Pumpkin Marinara,25 minutes,Italian,Sauce,4.7,https://cookieandkate.com/creamy-pumpkin-marinara-recipe/
+355,Italian Eggplant Parmesan,1 hour (plus 15 minutes cool-down time),Italian,Entree,5.0,https://cookieandkate.com/italian-eggplant-parmesan-recipe/
+356,Vegetable Paella,1 hour 15 minutes,Spanish,Main Dish,4.7,https://cookieandkate.com/vegetable-paella-recipe/
+357,Build-Your-Own Buddha Bowl,1 hour,Asian,Entree,5.0,https://cookieandkate.com/buddha-bowl-recipe/
+358,Quick Dal Makhani,1 hour,Indian,Stew,4.8,https://cookieandkate.com/quick-dal-makhani-recipe/
+359,10-Minute Quesadillas,10 minutes,Mexican,Main,4.8,https://cookieandkate.com/quick-quesadillas-recipe/
+360,Favorite Quinoa Salad,40 minutes,Mediterranean,Salad,4.9,https://cookieandkate.com/best-quinoa-salad-recipe/
+361,Crunchy Thai Peanut & Quinoa Salad,40 minutes,Thai,Salad,5.0,https://cookieandkate.com/thai-peanut-quinoa-salad-recipe/
+362,Chilaquiles Verdes with Baked Tortilla Chips,55 minutes,Mexican,Breakfast,5.0,https://cookieandkate.com/chilaquiles-verdes-recipe/
+363,Colorful Veggie Lettuce Wraps,25 minutes,Asian,Appetizer,4.4,https://cookieandkate.com/vegetable-lettuce-wraps-recipe/
+364,Amazing Vegan Mac and Cheese,40 minutes,Vegan,Pasta,4.6,https://cookieandkate.com/vegan-mac-and-cheese-recipe/
+365,Almond-Sesame Soba Zoodles with Quick-Pickled Veggies,30 minutes,Asian,Entree,5.0,https://cookieandkate.com/almond-sesame-soba-zoodles-recipe/
+366,Fresh Huevos Rancheros,45 minutes,Mexican,Breakfast,4.8,https://cookieandkate.com/huevos-rancheros-recipe/
+367,Extra Vegetable Fried Rice,35 minutes,Chinese,Main,4.9,https://cookieandkate.com/vegetable-fried-rice-recipe/
+368,Hummus Quesadillas!,15 minutes,Mediterranean,Entree,5.0,https://cookieandkate.com/hummus-quesadillas-recipe/
+369,Avocado Pesto Toast,20 minutes,Mediterranean,Breakfast,4.9,https://cookieandkate.com/avocado-pesto-toast-recipe/
+370,Broccolini Almond Pizza,40 minutes,Italian,Main,4.8,https://cookieandkate.com/broccolini-almond-pizza-recipe/
+371,Spring Veggie Stir-Fry,20 minutes,Chinese,Side dish,5.0,https://cookieandkate.com/veggie-stir-fry-recipe/
+372,Lentil Baked Ziti,1 hour 25 minutes,Italian,Entree,4.7,https://cookieandkate.com/lentil-baked-ziti-recipe/
+373,Laura’s Burrito-Stuffed Sweet Potatoes,1 hour 5 minutes,Mexican,Entree,4.9,https://cookieandkate.com/sweet-potato-burrito-bowls-recipe/
+374,Sweet Potato & Black Bean Tostadas,1 hour 10 minutes,Mexican,Entree,4.8,https://cookieandkate.com/sweet-potato-black-bean-tostadas-recipe/
+375,Farmers’ Market Bowl with Green Goddess Sauce,1 hour 5 minutes,,,4.8,https://cookieandkate.com/farmers-market-bowl-recipe/
+376,Roasted Veggie Enchilada Casserole,1 hour 45 minutes,Mexican,Entree,4.9,https://cookieandkate.com/vegetarian-enchilada-casserole-recipe/
+377,Sweet Potato & Black Bean Tacos with Avocado-Pepita Dip,1 hour,Mexican,Entree,5.0,https://cookieandkate.com/sweet-potato-black-bean-tacos/
+378,Pesto Pasta Salad,25 minutes,American,Salad,4.8,https://cookieandkate.com/pesto-pasta-salad-recipe/
+379,Mediterranean Spaghetti Squash Bowls,1 hour,Mediterranean,Entree,4.9,https://cookieandkate.com/mediterranean-spaghetti-squash-recipe/
+380,Vegan Spaghetti alla Puttanesca,30 minutes,Italian,Pasta,4.8,https://cookieandkate.com/vegan-spaghetti-alla-puttanesca/
+381,Double Tomato Pesto Spaghetti with Zucchini Noodles,30 minutes,Italian,Entree,4.7,https://cookieandkate.com/double-tomato-pesto-spaghetti-with-zucchini-noodles/
+382,Vegan BLT Sandwich,12 minutes,American,Sandwich,5.0,https://cookieandkate.com/vegan-blt-sandwich-recipe/
+383,Heather’s Zucchini Noodles with Basil-Pumpkin Seed Pesto,20 mins,Mediterranean,Entree,4.8,https://cookieandkate.com/zucchini-noodles-with-pesto-recipe/
+384,Tex-Mex Breakfast Bowls,35 minutes,Mexican,Breakfast,4.9,https://cookieandkate.com/tex-mex-breakfast-bowl-recipe/
+385,Anything-Goes Kale Salad with Green Tahini Dressing,15 mins,American,Salad,4.9,https://cookieandkate.com/anything-goes-kale-salad-with-green-tahini-dressing/
+386,Broccoli Rabe and Black Bean Quesadillas,30 minutes,Mexican,Entree,4.8,https://cookieandkate.com/broccoli-rabe-and-black-bean-quesadillas/
+387,"Lemony Broccoli, Chickpea & Avocado Pita Sandwiches",25 minutes,Mediterranean,Sandwich,4.9,https://cookieandkate.com/broccoli-chickpea-pita-sandwiches/
+388,Veggie Black Bean Enchiladas,1 hour,Mexican,Entree,4.9,https://cookieandkate.com/vegetarian-enchiladas-recipe/
+389,Coconut Rice with Brussels Sprouts from The Love and Lemons Cookbook,55 minutes,Thai,Entree,4.9,https://cookieandkate.com/coconut-rice-with-brussels-sprouts-recipe/
+390,Mediterranean Roasted Sweet Potato & Farro Salad,1 hour,Mediterranean,Salad,4.9,https://cookieandkate.com/mediterranean-sweet-potato-farro-salad-recipe/
+391,Spiralized Sweet Potato & Black Bean Quesadillas,25 minutes,Mexican,Entree,5.0,https://cookieandkate.com/sweet-potato-black-bean-quesadillas-recipe/
+392,Savory Steel Cut Oatmeal,45 minutes,American,Breakfast,5.0,https://cookieandkate.com/savory-steel-cut-oatmeal-recipe/
+393,Better Broccoli Casserole,1 hour,Vegetarian,Main,4.9,https://cookieandkate.com/better-broccoli-casserole-recipe/
+394,Kale Pesto Pizza,30 minutes,Italian,Entree,5.0,https://cookieandkate.com/kale-pesto-pizza-recipe/
+395,Roasted Butternut Squash Tacos,50 minutes,Mexican,Entree,4.9,https://cookieandkate.com/roasted-butternut-squash-tacos-recipe/
+396,Roasted Butternut Squash Risotto,1 hour 20 minutes,Italian,Entree,4.9,https://cookieandkate.com/roasted-butternut-squash-risotto/
+397,Spinach Pasta with Roasted Broccoli & Bell Pepper,40 minutes,Italian,Entree,4.8,https://cookieandkate.com/spinach-pasta-recipe/
+398,Hearty Roasted Butternut Squash & Apple Salad,1 hour 20 minutes,,,4.8,https://cookieandkate.com/roasted-butternut-squash-apple-salad-recipe/
+399,"Roasted Carrots with Farro, Chickpeas & Herbed Crème Fraîche",1 hour,Vegetarian,Entree,4.9,https://cookieandkate.com/roasted-carrots-recipe-with-farro-chickpeas/
+400,Spaghetti Squash Burrito Bowls,1 hour,Mexican,Entree,4.9,https://cookieandkate.com/spaghetti-squash-burrito-bowl-recipe/
+401,Thai Red Curry with Vegetables,40 minutes,Thai,Entree,4.8,https://cookieandkate.com/thai-red-curry-recipe/
+402,Roasted Eggplant & Tomato Orzo Pasta,35 minutes,Mediterranean,Entree,4.9,https://cookieandkate.com/roasted-eggplant-tomato-orzo-pasta-recipe/
+403,Lentil & Couscous Stuffed Peppers,40 minutes,Mediterranean,Entree,4.9,https://cookieandkate.com/lentil-couscous-stuffed-peppers-recipe/
+404,Greek Farro Salad,40 minutes,Greek,Salad,4.9,https://cookieandkate.com/greek-farro-salad-recipe/
+405,Creamy Cherry Tomato & Summer Squash Pasta,35 minutes,Italian,Entree,4.9,https://cookieandkate.com/creamy-cherry-tomato-summer-squash-pasta/
+406,Veggie Sushi Bowls,55 minutes,Japanese,Entree,5.0,https://cookieandkate.com/vegetarian-sushi-bowl-recipe/
+407,Mediterranean Quinoa Salad with Roasted Summer Vegetables,35 minutes,Mediterranean,Salad,4.9,https://cookieandkate.com/mediterranean-quinoa-salad-recipe/
+408,Roasted Broccoli Rabe and Pesto Flatbread,25 minutes,Italian,Appetizer,5.0,https://cookieandkate.com/broccoli-rabe-pesto-flatbread-recipe/
+409,Sweet Corn & Black Bean Tacos,35 minutes,Mexican,Entree,5.0,https://cookieandkate.com/sweet-corn-and-black-bean-tacos/
+410,Tomato Jam and Mozzarella Panini,50 minutes,Italian,Sandwich,5.0,https://cookieandkate.com/tomato-jam-and-mozzarella-panini/
+411,Greek Pizza,30 minutes,Italian,Entree,5.0,https://cookieandkate.com/greek-pizza-recipe/
+412,Freekeh with Basil-Cilantro Pesto and Grilled Pineapple Skewers,45 minutes,,,5.0,https://cookieandkate.com/freekeh-with-basil-cilantro-pesto-and-grilled-pineapple-skewers/
+413,Summertime Spaghetti with Fresh Tomato Sauce,25 minutes,Italian,Entree,4.4,https://cookieandkate.com/spaghetti-with-fresh-tomato-sauce/
+414,Sun-Dried Tomato Pesto Pasta with Roasted Vegetables,45 minutes,Italian,Entree,5.0,https://cookieandkate.com/sun-dried-tomato-pesto-pasta-recipe/
+415,Quinoa Black Bean Tacos with Creamy Avocado Sauce,30 minutes,Mexican,Entree,4.8,https://cookieandkate.com/quinoa-black-bean-tacos-recipe/
+416,"Summertime Pasta Salad with Tomatoes, Corn and Jalapeño Pesto",30 minutes,American,Salad,4.9,https://cookieandkate.com/summertime-pasta-salad-recipe/
+417,Cauliflower Falafel Veggie Burgers,40 minutes,Mediterranean,Veggie burger,4.5,https://cookieandkate.com/cauliflower-falafel-veggie-burgers/
+418,Broccoli Rabe Peanut Soba Noodles,25 minutes,Asian,Entree,4.9,https://cookieandkate.com/broccoli-rabe-peanut-soba-noodles/
+419,Spring Pea and Asparagus Risotto,1 hour 20 minutes,Italian,Entree,5.0,https://cookieandkate.com/pea-and-asparagus-risotto-recipe/
+420,Spinach Artichoke Enchiladas,55 minutes,Mexican,Entree,4.9,https://cookieandkate.com/spinach-artichoke-enchiladas/
+421,Roasted Cauliflower and Lentil Tacos with Creamy Chipotle Sauce,50 minutes,Mexican,Entree,5.0,https://cookieandkate.com/roasted-cauliflower-and-lentil-tacos/
+422,Brussels Sprouts Pizza with Balsamic Red Onions,35 minutes,Italian,Main,4.7,https://cookieandkate.com/brussels-sprouts-pizza-recipe/
+423,Austin-Style Migas with Black Beans,35 minutes,Tex-Mex,Breakfast,4.8,https://cookieandkate.com/migas-recipe/
+424,"Colorful Beet Salad with Carrot, Quinoa & Spinach",45 minutes,American,Salad,4.9,https://cookieandkate.com/raw-beet-salad-with-carrot-quinoa-spinach/
+425,Spinach Artichoke Lasagna,1 hour 10 minutes,Italian,Main,4.9,https://cookieandkate.com/spinach-artichoke-lasagna-recipe/
+426,Green Goddess Hummus Sandwich,25 minutes,,,4.6,https://cookieandkate.com/green-goddess-hummus-sandwich/
+427,Thai Green Curry with Spring Vegetables,45 minutes,Thai,Entree,4.8,https://cookieandkate.com/thai-green-curry-with-spring-vegetables/
+428,Coconut Curried Kale and Sweet Potato,1 hour 5 minutes,Indian,Entree,4.8,https://cookieandkate.com/coconut-curried-kale-and-sweet-potato-recipe/
+429,"Southwestern Kale Power Salad with Sweet Potato, Quinoa & Avocado Sauce",40 minutes,Mexican,Salad,4.8,https://cookieandkate.com/southwestern-kale-power-salad/
+430,Parmesan-Crusted Cauliflower Steaks with Marinara,50 minutes,Italian,Entree,4.9,https://cookieandkate.com/roasted-cauliflower-steaks-with-marinara-spaghetti/
+431,Lemony Roasted Cauliflower Risotto,1 hour 25 minutes,Italian,Entree,5.0,https://cookieandkate.com/lemony-roasted-cauliflower-risotto/
+432,Thai Pineapple Fried Rice,25 minutes,Asian,Entree,4.8,https://cookieandkate.com/thai-pineapple-fried-rice-recipe/
+433,Creamy Roasted Brussels Sprout and Quinoa Gratin,45 minutes,Vegetarian,Main,5.0,https://cookieandkate.com/brussels-sprout-quinoa-gratin/
+434,Butternut Ribbon Goat Cheese Pizza with Arugula-Pepita Pesto,45 minutes,Italian,Main,4.5,https://cookieandkate.com/butternut-ribbon-goat-cheese-pizza-with-arugula-pepita-pesto/
+435,Spicy Sweet Potato and Green Rice Burrito Bowls,1 hour 5 minutes,Mexican,Main,4.9,https://cookieandkate.com/vegan-sweet-potato-green-rice-burrito-bowls/
+436,Butternut Squash Frittata with Fried Sage,45 minutes,,,4.9,https://cookieandkate.com/butternut-squash-frittata-with-fried-sage/
+437,"Roasted Cauliflower, Freekeh and Garlicky Tahini Sauce",45 minutes,Middle Eastern,Main,4.9,https://cookieandkate.com/roasted-cauliflower-freekeh-tahini-sauce/
+438,Easy Brown Rice Risotto with Mushrooms and Fresh Oregano,1 hour 20 minutes,Italian,Main,4.8,https://cookieandkate.com/easy-brown-rice-risotto-with-mushrooms-and-fresh-oregano/
+439,"Barbecue Pineapple, Jalapeño and Feta Pizza",40 minutes,American,Main,4.7,https://cookieandkate.com/barbecue-pineapple-jalapeno-and-feta-pizza/
+440,No Noodle Pad Thai,30 mins,Thai,Main,4.5,https://cookieandkate.com/no-noodle-pad-thai/
+441,"Caramelized Sweet Potato, Red Pepper and Feta Frittata",45 minutes,,,4.8,https://cookieandkate.com/sweet-potato-red-pepper-feta-frittata/
+442,Roasted Red Pepper Tortilla Soup,1 hour 10 minutes,Mexican,Soup,5.0,https://cookieandkate.com/roasted-red-pepper-tortilla-soup/
+443,Balsamic Roasted Broccoli and Red Pepper Grilled Cheese,40 minutes,,,5.0,https://cookieandkate.com/balsamic-roasted-broccoli-and-red-pepper-grilled-cheese/
+444,Spicy Roasted Ratatouille with Spaghetti,45 minutes,French,Main,4.7,https://cookieandkate.com/spicy-roasted-ratatouille-with-spaghetti/
+445,"Grilled Summer Salad with Corn, Peppers and Chili-Lime Dressing",30 minutes,,,5.0,https://cookieandkate.com/vegetarian-grilled-summer-salad-with-corn-peppers-and-chili-lime-dressing/
+446,"Mason Jar Chickpea, Farro and Greens Salad (& lunch packing tips!)",45 minutes,,,4.9,https://cookieandkate.com/mason-jar-chickpea-farro-and-greens-salad/
+447,Erin’s Baked Eggs on a Bed of Roasted Cherry Tomatoes,25 minutes,American,Breakfast,4.9,https://cookieandkate.com/baked-eggs-on-roasted-cherry-tomatoes/
+448,Pesto Squash Noodles and Spaghetti with Burst Cherry Tomatoes,30 minutes,Italian,Entree,4.9,https://cookieandkate.com/pesto-squash-noodles-and-spaghetti-with-burst-cherry-tomatoes/
+449,Strawberry and Spinach Salad with Quinoa and Goat Cheese,30 minutes,,,4.8,https://cookieandkate.com/strawberry-and-spinach-salad-with-quinoa-and-goat-cheese/
+450,Arugula-Almond Pesto Pizza,45 minutes,,,5.0,https://cookieandkate.com/arugula-almond-pesto-pizza/
+451,Veggie Breakfast Tacos,35 minutes,Mexican,Breakfast,4.7,https://cookieandkate.com/veggie-breakfast-tacos/
+452,Thai Mango Cabbage Wraps with Crispy Tofu and Peanut Sauce,1 hour,Thai,Appetizer/Entree,4.9,https://cookieandkate.com/thai-mango-cabbage-wraps/
+453,Feta Fiesta Kale Salad with Avocado and Crispy Tortilla Strips,25 minutes,Mexican,Salad,5.0,https://cookieandkate.com/feta-fiesta-kale-salad-with-avocado-and-crispy-tortilla-strips/
+454,Socca Pizza with Summer Squash and Feta,1 hour 25 minutes,French-inspired,Main,4.7,https://cookieandkate.com/socca-pizza-with-summer-squash-and-feta/
+455,Fresh Arugula and Black Bean Tacos with Pickled Radish and Feta,30 minutes,Mexican,Main,5.0,https://cookieandkate.com/fresh-arugula-and-black-bean-tacos-with-pickled-radish-and-feta/
+456,Simple Goat Cheese and Egg Toasts with Fresh Peas and Dill,10 minutes,,,4.3,https://cookieandkate.com/simple-goat-cheese-and-egg-toasts-with-peas-and-dill/
+457,Lentil-Chickpea Veggie Burgers with Avocado Green Harissa,40 minutes,,,4.9,https://cookieandkate.com/lentil-chickpea-veggie-burgers-with-avocado-green-harissa/
+458,Strawberry Kale Salad with Nutty Granola Croutons,45 minutes,,,4.8,https://cookieandkate.com/strawberry-kale-salad-with-nutty-granola-croutons/
+459,Breakfast Quesadillas with Spinach and Black Beans,25 minutes,Mexican,Breakfast,4.7,https://cookieandkate.com/breakfast-quesadillas-with-scrambled-eggs-spinach-and-black-beans/
+460,Sugar Snap Pea and Carrot Soba Noodles,30 minutes,Asian,Main,4.8,https://cookieandkate.com/sugar-snap-pea-and-carrot-soba-noodles/
+461,Lemony Lentil and Chickpea Salad with Radish and Herbs,45 minutes,French,Salad,4.6,https://cookieandkate.com/lemony-lentil-and-chickpea-salad-with-radish-and-herbs/
+462,"Spring Carrot, Radish and Quinoa Salad with Herbed Avocado",35 minutes,,,5.0,https://cookieandkate.com/spring-carrot-radish-and-quinoa-salad-with-herbed-avocado/
+463,Super Kale Pesto,13 minutes,Italian,Entree,4.8,https://cookieandkate.com/super-kale-pesto-recipe/
+464,Redeeming Green Soup with Lemon and Cayenne,1 hour,,,4.8,https://cookieandkate.com/redeeming-green-soup-with-lemon-and-cayenne/
+465,Creamy (vegan!) Butternut Squash Linguine with Fried Sage,55 minutes,Italian,Entree,4.5,https://cookieandkate.com/creamy-vegan-butternut-squash-linguine-with-fried-sage/
+466,Greek Salad with Broccoli and Sun-Dried Tomatoes,20 mins,Greek,Salad,4.6,https://cookieandkate.com/greek-salad-with-broccoli-and-sun-dried-tomatoes/
+467,Curried Coconut Quinoa and Greens with Roasted Cauliflower,40 minutes,Indian,Main,4.9,https://cookieandkate.com/curried-coconut-quinoa-greens-roasted-cauliflower/
+468,"Roasted Carrot and Potato, Lentils and Miso Parsley Sauce",50 minutes,,,5.0,https://cookieandkate.com/roasted-carrot-and-potato-lentils-and-miso-parsley-sauce/
+469,Arugula and Cremini Quiche with Gluten-Free Almond Meal Crust,1 hour 15 minutes,,,4.8,https://cookieandkate.com/arugula-and-cremini-quiche-with-gluten-free-almond-meal-crust/
+470,Curried Cauliflower Soup,1 hour,Thai,Soup,4.8,https://cookieandkate.com/curried-cauliflower-soup/
+471,Huevos Rancheros with Avocado Salsa Verde,35 minutes,Mexican,Breakfast,4.9,https://cookieandkate.com/huevos-rancheros-avocado-salsa-verde/
+472,Tortilla Soup,30 minutes,Mexican,Entree,4.9,https://cookieandkate.com/vegetarian-tortilla-soup/
+473,The Easiest Whole Wheat Pizza Dough,30 minutes,Italian,Pizza,4.8,https://cookieandkate.com/easy-whole-wheat-pizza-dough/
+474,Roasted Eggplant Spaghetti with Miso Brown Butter Sauce,55 minutes,,,4.9,https://cookieandkate.com/roasted-eggplant-spaghetti-with-miso-brown-butter-sauce/
+475,Spicy Thai Peanut Sauce over Roasted Sweet Potatoes and Rice,50 minutes,Thai,Main,4.9,https://cookieandkate.com/spicy-thai-peanut-sauce-over-roasted-sweet-potatoes-and-rice/
+476,Heart of Romaine Salad with Pico de Gallo and Avocado Dressing,25 minutes,Mexican,Salad,5.0,https://cookieandkate.com/heart-of-romaine-salad-with-pico-de-gallo-and-avocado-dressing/
+477,Heirloom BLT Salad (with Coconut Bacon!),30 minutes,,,4.8,https://cookieandkate.com/heirloom-blt-salad-with-coconut-bacon/
+478,"Tomato, Olive and Chickpea Quesadillas with Dill Yogurt Dip",15 minutes,Greek,"Entree, appetizer or snack",4.4,https://cookieandkate.com/tomato-olive-and-chickpea-quesadilla-with-dill-yogurt-dip/
+479,Cilantro-Pepita Pesto with Squash Ribbons and Fettuccine,30 minutes,Italian,Entree,4.7,https://cookieandkate.com/cilantro-pepita-pesto-with-squash-ribbons-and-fettuccine/
+480,Greek Farro and Chickpea Salad with Herbed Yogurt,25 minutes,Greek,Salad,4.7,https://cookieandkate.com/greek-farro-and-chickpea-salad-with-herbed-yogurt/
+481,"Chopped Kale Salad with Edamame, Carrot and Avocado",20 mins,Asian,Salad,5.0,https://cookieandkate.com/chopped-kale-salad-with-edamame-carrot-and-avocado/
+482,Sesame-Ginger and Cucumber Soba Noodles,28 minutes,Japanese,Entree,4.9,https://cookieandkate.com/sesame-ginger-and-cucumber-soba-noodles/
+483,"Kale, Black Bean & Avocado Burrito Bowl",50 minutes,Mexican,Entree,4.8,https://cookieandkate.com/kale-black-bean-and-avocado-burrito-bowl/
+484,"Strawberry, Basil and Balsamic Pizza",50 minutes,Italian,Main,4.7,https://cookieandkate.com/strawberry-basil-and-balsamic-pizza/
+485,Sweet Potato & Black Bean Veggie Burgers,1 hour 20 minutes,American,Main,4.9,https://cookieandkate.com/sweet-potato-black-bean-veggie-burgers/
+486,Tex-Mex Omelet with Roasted Cherry Tomato Salsa,40 minutes,Mexican,Breakfast,5.0,https://cookieandkate.com/tex-mex-omelet-with-roasted-cherry-tomato-salsa/
+487,Minty Pea Pesto,55 minutes,,,5.0,https://cookieandkate.com/minty-pea-pesto-with-rice-and-radishes/
+488,Spring Pea and Asparagus Pasta,45 minutes,Italian,Main,4.9,https://cookieandkate.com/spring-pea-and-asparagus-pasta/
+489,Lentil and Mushroom Meatballs,1 hour 20 minutes,Italian,Main,4.7,https://cookieandkate.com/lentil-and-mushroom-meatballs/
+490,Vegetarian Peanut Soup,45 minutes,African,Soup,4.9,https://cookieandkate.com/west-african-peanut-soup/
+491,Curried Red Lentil Soup with Dried Cherries and Cilantro,50 minutes,Indian,Soup,4.7,https://cookieandkate.com/curried-red-lentil-soup-with-dried-cherries-and-cilantro/
+492,"Crispy Mushroom, Spinach and Avocado Quesadillas",20 minutes,Mexican,Main,4.9,https://cookieandkate.com/crispy-mushroom-spinach-and-avocado-quesadillas/
+493,Blue Corn Nachos with Homemade Guacamole,25 minutes,Mexican,Appetizer,5.0,https://cookieandkate.com/vegetarian-blue-corn-nachos-with-guacamole/
+494,Portobello and Poblano Fajitas,1 hour,Mexican,Main,4.8,https://cookieandkate.com/portobello-and-poblano-fajitas/
+495,Baby Spinach Frittata with Sweet Potato Hash Crust,45 minutes,,,4.9,https://cookieandkate.com/baby-spinach-frittata-with-sweet-potato-hash-crust/
+496,Black Bean Enchiladas with Roasted Red Pepper Sauce,45 minutes,Mexican,Main,4.4,https://cookieandkate.com/black-bean-enchiladas-with-roasted-red-pepper-sauce/
+497,"Deb’s Kale Salad with Apple, Cranberries and Pecans",20 mins,,,5.0,https://cookieandkate.com/debs-kale-salad-with-apple-cranberries-and-pecans/
+498,Pumpkin Fettuccine Alfredo,30 minutes,Italian,Main,4.8,https://cookieandkate.com/pumpkin-fettuccine-alfredo/
+499,Sweet Potato Burrito Smothered in Avocado Salsa Verde,1 hour,Mexican,Main,4.9,https://cookieandkate.com/sweet-potato-burrito-smothered-in-avocado-salsa-verde/
+500,Simple Greek Avocado Sandwich,10 mins,Greek,Sandwich,4.9,https://cookieandkate.com/simple-greek-avocado-sandwich/
+501,Butternut Squash Chipotle Chili with Avocado,1 hour 20 minutes,American,Main,4.9,https://cookieandkate.com/butternut-squash-chipotle-chili-with-avocado/
+502,Blackened Green Bean and Quinoa Salad,35 minutes,,,5.0,https://cookieandkate.com/blackened-green-bean-and-quinoa-salad/
+503,Spicy Sun-Dried Tomato and Broccoli Pasta,35 minutes,Vegetarian,Pasta,4.9,https://cookieandkate.com/spicy-sun-dried-tomato-and-broccoli-pasta/
+504,Beer Bean-Stuffed Poblano Peppers,1 hour 35 minutes,Mexican,Main,4.7,https://cookieandkate.com/beer-bean-stuffed-poblano-peppers/
+505,Summer Rolls with Spicy Peanut Sauce,45 minutes,Thai,Appetizer,5.0,https://cookieandkate.com/summer-rolls-with-spicy-peanut-sauce/
+506,Coconut Quinoa and Kale with Tropical Pesto + Notes on Belize,35 minutes,Belizean-inspired,Salad,5.0,https://cookieandkate.com/coconut-quinoa-and-kale-with-tropical-pesto/
+507,"Stacked Tomato, Summer Vegetable and Grilled Bread Salad",45 minutes,,,5.0,https://cookieandkate.com/stacked-tomato-summer-vegetable-and-grilled-bread-salad/
+508,Sweet Corn Salad Wraps,50 minutes,,,5.0,https://cookieandkate.com/sweet-corn-salad-wraps/
+509,"Simple Peach, Basil and Ricotta Flatbread",20 minutes,,,4.2,https://cookieandkate.com/simple-peach-basil-and-ricotta-flatbread/
+510,Summer Squash Tacos with Avocado Chimichurri,40 minutes,,,5.0,https://cookieandkate.com/summer-squash-tacos-with-avocado-chimichurri-sauce/
+511,"Strawberry, Basil and Goat Cheese Panini",30 minutes,,,4.5,https://cookieandkate.com/strawberry-basil-and-goat-cheese-panini/
+512,African Black-Eyed Pea Salad,1 hour 15 mins,African,Salad,4.9,https://cookieandkate.com/african-black-eyed-pea-salad/
+513,Simple Kale and Black Bean Burritos,10 minutes,,,4.9,https://cookieandkate.com/simple-kale-and-black-bean-burritos/
+514,Simple Tortilla Pizzas,15 minutes,American,Entree,4.9,https://cookieandkate.com/simple-tortilla-pizzas/
+515,Raw Kale Salad with Creamy Tahini Dressing,15 mins,,,4.3,https://cookieandkate.com/raw-kale-salad-with-creamy-tahini-dressing/
+516,Tomatillo Black Bean Tostadas,40 minutes,Mexican,Main,4.8,https://cookieandkate.com/baked-tostadas-with-tomatillo-black-bean-salsa/
+517,Ribboned Asparagus and Quinoa Salad,30 minutes,,,4.5,https://cookieandkate.com/shaved-asparagus-quinoa-salad/
+518,Simple Burrito Bowls,9 minutes,Mexican,Entree,5.0,https://cookieandkate.com/black-bean-burrito-bowl/
+519,Thai Green Curry,55 minutes,Thai,Main,4.9,https://cookieandkate.com/vegetarian-thai-green-curry/
+520,Pesto Pizza with Fresh Arugula and Parmesan,25 minutes,Italian,Entree,5.0,https://cookieandkate.com/whole-wheat-pizza-dough-with-pesto-arugula/
+521,Springtime Stir-Fried Millet,1 hour 5 minutes,Chinese,Entree,4.7,https://cookieandkate.com/springtime-stir-fried-millet/
+522,Baked Asparagus Frittata,35 minutes,Vegetarian,Entree,4.9,https://cookieandkate.com/baked-asparagus-frittata/
+523,Lemony Collard Greens Pasta,20 minutes,Vegetarian,Pasta,4.8,https://cookieandkate.com/lemon-collard-greens-pasta/
+524,Tomato and Lentil Curry,1 hour,Indian,Stew,4.8,https://cookieandkate.com/vegan-tomato-and-lentil-curry/
+525,"Baked Chiocciole with Brussels Sprouts, Apples and Blue Cheese",30 minutes,,,4.6,https://cookieandkate.com/baked-chiocciole-with-brussels-sprouts-figs-and-blue-cheese/
+526,Red Pepper Pesto with Roasted Cauliflower,30 minutes,,,5.0,https://cookieandkate.com/red-pepper-pesto-recipe/
+527,Chipotle-Glazed Delicata Squash,1 hour 15 minutes,Mexican,Main,5.0,https://cookieandkate.com/chipotle-glazed-squash/
+528,Roasted Brussels Sprouts and Cranberries with Barley,20 minutes,,,4.9,https://cookieandkate.com/roasted-brussels-sprouts-with-cranberries-and-barley/
+529,Orecchiette with Spinach and Gorgonzola Sauce,15 minutes,,,4.8,https://cookieandkate.com/orecchiette-with-spinach-and-gorgonzola-sauce/
+530,Baked Rice with Herbs and Veggies,1 hour 45 minutes,,,4.7,https://cookieandkate.com/healthy-baked-rice-recipe/
+531,Breakfast Enchiladas with Roasted Poblano Sauce,55 minutes,,,4.8,https://cookieandkate.com/egg-enchiladas-with-roasted-poblano-sauce/
+532,Peanut Soba Noodle Bowl,35 minutes,Asian,Main,5.0,https://cookieandkate.com/peanut-soba-noodle-bowl/
+533,Roasted Red Pepper and Tomato Soup,1 hour 10 minutes,,,4.5,https://cookieandkate.com/roasted-red-pepper-and-tomato-soup/
+534,Scrambled Huevos Rancheros,8 minutes,Mexican,Breakfast,5.0,https://cookieandkate.com/scrambled-huevos-rancheros/
+535,Pesto-palooza! Ten Ways to Eat Pesto,10 minutes,,,4.7,https://cookieandkate.com/easy-pesto-recipes/
+536,Mediterranean Stuffed Tomatoes with Quinoa,30 minutes,,,5.0,https://cookieandkate.com/stuffed-tomatoes-with-quinoa/
+537,Tomato and Goat Cheese Toast,10 minutes,,,5.0,https://cookieandkate.com/tomato-and-goat-cheese-toast/
+538,Soba Noodle & Raw Veggie Salad,20 minutes,,,5.0,https://cookieandkate.com/vegetarian-soba-noodles-recipe/
+539,Zucchini Noodles with Arrabiata Chickpeas,30 minutes,Mediterranean,Entree,4.7,https://cookieandkate.com/zucchini-noodles-with-arrabiata-chickpeas/
+540,Roasted Tofu with Quinoa,55 minutes,,,4.3,https://cookieandkate.com/roasted-tofu-with-quinoa/
+541,Arugula Walnut Pesto,15 minutes,Italian,Sauce,4.6,https://cookieandkate.com/arugula-walnut-pesto/
+542,Arugula and Goat Cheese Pasta Salad,15 minutes,,,4.7,https://cookieandkate.com/arugula-and-goat-cheese-pasta-salad/
+543,Vegetarian Sweet Potato Chili,1 hour 10 minutes,,,4.9,https://cookieandkate.com/sweet-potato-chili-recipe/
+544,Baked Frittata,25 minutes,Italian,"Main, Side",4.9,https://cookieandkate.com/baked-frittata/
+545,Orzo Risotto with Winter Squash,40 minutes,Italian,Main,5.0,https://cookieandkate.com/squash-risotto/
+546,Vegan White Russian,10 minutes (plus 2 to 4 hour soaking time),Vegan,Cocktail,5.0,https://cookieandkate.com/vegan-white-russian-recipe/
+547,Cucumber Elderflower Gimlet,10 minutes,,,5.0,https://cookieandkate.com/cucumber-elderflower-gimlet/
+548,Fresh Mezcalitas,10 minutes,Mexican,Cocktail,5.0,https://cookieandkate.com/mezcalita-recipe/
+549,Mango-Rita Green Smoothie,10 minutes,American,Smoothie,5.0,https://cookieandkate.com/mango-pineapple-green-smoothie/
+550,Frozen Mint Lemonade,10 minutes,Middle Eastern,Drink,5.0,https://cookieandkate.com/frozen-mint-lemonade-recipe/
+551,Pink Drink,25 minutes,American,Drink,4.5,https://cookieandkate.com/pink-drink-recipe/
+552,Minty Iced Matcha Latte,10 minutes,Japanese,Drink,4.7,https://cookieandkate.com/iced-matcha-latte-recipe/
+553,Pecan Milk!,5 mins,American,Drinks,4.9,https://cookieandkate.com/pecan-milk-recipe/
+554,Maple New York Sour,5 mins,American,Cocktail,5.0,https://cookieandkate.com/maple-new-york-sour/
+555,Watermelon Mimosas,10 mins,American,Cocktail,5.0,https://cookieandkate.com/watermelon-mimosas/
+556,Frozen Strawberry Margaritas,10 mins,Mexican,Cocktail,5.0,https://cookieandkate.com/frozen-strawberry-margaritas-recipe/
+557,Clementine French 75,10 mins,,,5.0,https://cookieandkate.com/clementine-french-75-recipe/
+558,Cinnamon Maple Whiskey Sour,5 mins,,,5.0,https://cookieandkate.com/cinnamon-maple-whiskey-sour-recipe/
+559,Spicy Watermelon Margaritas,5 mins,Mexican,Cocktail,5.0,https://cookieandkate.com/spicy-watermelon-margarita-recipe/
+560,Watermelon White Sangria,10 mins,Spanish,Cocktail,4.7,https://cookieandkate.com/watermelon-white-sangria-recipe/
+561,Cucumber Mojito,5 mins,,,4.0,https://cookieandkate.com/cucumber-mojito-recipe/
+562,Cold Brew Iced Tea,5 mins (plus 6 to 12 hours chilling time),Asian,Drink,5.0,https://cookieandkate.com/cold-brew-iced-tea/
+563,Summertime Aguas Frescas,5 mins,Mexican,Juice,5.0,https://cookieandkate.com/aguas-frescas-recipe/
+564,Frozen Blueberry Margaritas,5 mins,Mexican,Cocktail,5.0,https://cookieandkate.com/frozen-blueberry-margaritas/
+565,Spicy Grapefruit Margaritas,5 mins,Mexican,Cocktail,4.9,https://cookieandkate.com/spicy-grapefruit-margarita-recipe/
+566,Tahini Date Shake & Tel Aviv,5 mins,Middle Eastern,Dessert,5.0,https://cookieandkate.com/tahini-date-shake/
+567,Blood Orange and Pomegranate Sparkling Sangria,10 minutes,Spanish,Cocktail,4.8,https://cookieandkate.com/blood-orange-pomegranate-sparkling-sangria/
+568,Clementine Sunshine Smoothie,5 mins,,,5.0,https://cookieandkate.com/clementine-sunshine-smoothie/
+569,Earl Grey French 75,1 hour 10 minutes,,,5.0,https://cookieandkate.com/earl-grey-french-75/
+570,Spiced Apple Margaritas,10 mins,Mexican,Cocktails,5.0,https://cookieandkate.com/spiced-apple-margaritas/
+571,Homemade Pumpkin Chai Latte,10 minutes,American,Drinks,5.0,https://cookieandkate.com/homemade-pumpkin-chai-latte/
+572,Fresh Honeydew Margaritas,10 minutes,Mexican,Cocktail,5.0,https://cookieandkate.com/fresh-honeydew-margaritas/
+573,Lemon-Basil Mojito,5 mins,Cuban,Cocktail,4.0,https://cookieandkate.com/lemon-basil-mojito/
+574,Cucumber Mint Gimlet,5 mins,,,4.9,https://cookieandkate.com/cucumber-mint-gimlet-recipe/
+575,Kombucha Moscow Mules,2 mins,,,5.0,https://cookieandkate.com/kombucha-moscow-mules/
+576,The Bootleg Cocktail,10 mins,,,5.0,https://cookieandkate.com/the-bootleg-cocktail/
+577,Serrano-Spiced Paloma Cocktail,5 mins,Mexican,Cocktail,5.0,https://cookieandkate.com/serrano-spiced-paloma-cocktail/
+578,Blood Orange Margaritas,6 minutes,Mexican,Cocktail,5.0,https://cookieandkate.com/blood-orange-margaritas/
+579,Ruby Red and Rosemary Honey Cocktail,10 mins,,,4.8,https://cookieandkate.com/ruby-red-grapefruit-and-rosemary-honey-cocktail/
+580,Fresh Cranberry Margaritas,35 minutes,,,5.0,https://cookieandkate.com/fresh-cranberry-margaritas/
+581,Red Pepper Martini,10 mins,,,4.5,https://cookieandkate.com/red-pepper-martini/
+582,Oaxaca Chocolate Banana Smoothie,5 mins,,,5.0,https://cookieandkate.com/oaxaca-chocolate-banana-smoothie/
+583,Cashew Milk,5 min,American,Beverages,4.9,https://cookieandkate.com/cashew-milk-recipe/
+584,Ginger Beer Concentrate,20 minutes,American,Beverages,4.7,https://cookieandkate.com/ginger-beer-concentrate/
+585,Apple Cider Hot Toddy,6 minutes,,,4.7,https://cookieandkate.com/apple-cider-hot-toddy/
+586,Watermelon Juice,10 minutes,Mexican,Drink,4.8,https://cookieandkate.com/watermelon-juice/
+587,Skinny Margaritas,5 minutes,Mexican,Cocktail,4.9,https://cookieandkate.com/fresh-margaritas/
+588,Homemade Horchata,15 minutes (plus overnight soak),Mexican,Drinks,5.0,https://cookieandkate.com/horchata/
+589,Strawberry-Infused Mint Julep,72 hours 10 minutes,American,Cocktail,5.0,https://cookieandkate.com/strawberry-infused-bourbon-and-mint-julep/
+590,Pineapple Cilantro Serrano Cocktail,5 minutes,Mexican,Cocktail,5.0,https://cookieandkate.com/pineapple-cilantro-serrano-cocktail/
+591,Pumpkin Pineapple Cocktail,5 mins,,,5.0,https://cookieandkate.com/pumpkin-pineapple-cocktail/
+592,Homemade Wassail,40 minutes,,,4.6,https://cookieandkate.com/wassail-cocktail/
+593,Pear Nectar with Reposado Tequila,3 minutes,,,5.0,https://cookieandkate.com/holiday-cocktail-pear-and-resposado-tequila/
+594,Basil Gimlet,5 mins,,,5.0,https://cookieandkate.com/basil-gimlet/
+595,Cantaloupe Fiesta Cocktail,5 mins,,,5.0,https://cookieandkate.com/cantaloupe-tequila-cocktail/
+596,Raspberry Daiquiri,5 mins,,,5.0,https://cookieandkate.com/raspberry-daiquiri/
+597,Cucumber Cocktails,10 minutes,,,5.0,https://cookieandkate.com/cucumber-cocktails/
+598,Beautiful Red Bell Cocktail,5 mins,,,5.0,https://cookieandkate.com/beautiful-red-bell-cocktail/
+599,Banana Almond Smoothie,5 minutes,,,4.9,https://cookieandkate.com/banana-almond-smoothie/
+600,Pineapple Avocado Smoothie,5 mins,,,4.9,https://cookieandkate.com/pina-vocado-smoothie/
+601,Green Machine Smoothie,5 mins,,,4.0,https://cookieandkate.com/green-machine-smoothie/
+602,Shredded Brussels Sprouts & Arugula Salad with Sunshine Dressing,30 minutes,Vegetarian,Salad,5.0,https://cookieandkate.com/shredded-brussels-sprouts-arugula-salad-recipe/
+603,Creamy Tahini Dressing,10 minutes,Mediterranean,Salad dressing,4.7,https://cookieandkate.com/creamy-tahini-dressing-recipe/
+604,Fattoush Salad with Mint Dressing,35 minutes,Lebanese,Salad,4.9,https://cookieandkate.com/fattoush-salad-recipe-with-mint-dressing/
+605,Fresh Mint Dressing,5 minutes,Mediterranean,Salad dressing,4.9,https://cookieandkate.com/fresh-mint-dressing-recipe/
+606,Fresh Herbed Avocado Salad,30 minutes,Mexican,Salad,4.9,https://cookieandkate.com/fresh-herbed-avocado-salad-recipe/
+607,Heirloom Caprese Salad,20 minutes,Italian,Salad,5.0,https://cookieandkate.com/best-caprese-salad-recipe/
+608,How to Make Vinaigrette (Plus 3 Essential Variations!),5 minutes,French,Salad dressing,4.8,https://cookieandkate.com/how-to-make-vinaigrette-plus-variations/
+609,Garden-Fresh Corn Salad,30 minutes,American,Salad,4.8,https://cookieandkate.com/garden-fresh-corn-salad/
+610,Colorful Strawberry Arugula Salad with Balsamic Vinaigrette,25 minutes,Vegetarian,Salad,5.0,https://cookieandkate.com/strawberry-arugula-salad-recipe/
+611,Tropical Fruit Salad,30 minutes,Costa Rican,Salad,5.0,https://cookieandkate.com/tropical-fruit-salad-recipe/
+612,Caprese Pasta Salad,15 minutes,Italian,Entree,4.9,https://cookieandkate.com/caprese-pasta-salad/
+613,French Carrot Salad,20 minutes (plus 20-minute marinating time),French,Salad,4.8,https://cookieandkate.com/french-carrot-salad-recipe/
+614,Crispy Falafel,50 minutes (plus 4-hour soaking time),Middle Eastern,Appetizer,4.5,https://cookieandkate.com/crispy-falafel-recipe/
+615,Peanut Slaw with Soba Noodles,25 minutes,Asian,Salad,4.9,https://cookieandkate.com/peanut-soba-noodle-slaw-recipe/
+616,Gaby’s Cucumber Salad,5 minutes,Californian,Salad,5.0,https://cookieandkate.com/best-cucumber-salad-recipe/
+617,Masala Lentil Salad with Cumin Roasted Carrots,55 minutes,Indian-inspired,Salad,5.0,https://cookieandkate.com/masala-lentil-salad-with-cumin-roasted-carrots/
+618,Jessica’s Marinated Chickpeas,15 minutes (plus 30 minute optional marinating time),Mediterranean,Salad,4.9,https://cookieandkate.com/marinated-chickpeas-recipe/
+619,Chopped Greek Salad,30 minutes,Greek,Salad,4.8,https://cookieandkate.com/chopped-greek-salad-recipe/
+620,Roasted & Raw Carrot Salad with Avocado,50 minutes,American,Salad,4.9,https://cookieandkate.com/roasted-raw-carrot-salad-recipe/
+621,Sunshine Slaw with Quinoa,40 minutes (plus 20 minute rest),American,Salad,5.0,https://cookieandkate.com/sunshine-quinoa-slaw-recipe/
+622,Sunshine Salad Dressing,10 minutes,American,Salad Dressing,5.0,https://cookieandkate.com/healthy-honey-mustard-dressing-recipe/
+623,Vibrant Orange & Arugula Salad,20 minutes,Mediterranean,Salad,4.9,https://cookieandkate.com/orange-arugula-salad-recipe/
+624,"Orange Orzo Salad with Almonds, Feta and Olives",25 minutes (plus 10 minutes for marinating),Mediterranean,Salad,5.0,https://cookieandkate.com/orange-orzo-salad-recipe/
+625,Favorite Broccoli Salad,20 minutes (plus 20 minutes marinating time),Mediterranean,Salad,5.0,https://cookieandkate.com/favorite-broccoli-salad-recipe/
+626,"Kale, Apple & Goat Cheese Salad with Granola “Croutons”",40 minutes,,,4.9,https://cookieandkate.com/kale-apple-salad-with-granola-croutons/
+627,Hot Pink Coconut Slaw,25 minutes,,,4.9,https://cookieandkate.com/coconut-slaw-recipe/
+628,Favorite Quinoa Salad,40 minutes,Mediterranean,Salad,4.9,https://cookieandkate.com/best-quinoa-salad-recipe/
+629,Mexican Green Salad with Jalapeño-Cilantro Dressing,35 minutes,Mexican,Salad,4.7,https://cookieandkate.com/mexican-green-salad-recipe/
+630,Crunchy Thai Peanut & Quinoa Salad,40 minutes,Thai,Salad,5.0,https://cookieandkate.com/thai-peanut-quinoa-salad-recipe/
+631,Colorful Veggie Lettuce Wraps,25 minutes,Asian,Appetizer,4.4,https://cookieandkate.com/vegetable-lettuce-wraps-recipe/
+632,Fresh Black Bean Salad,20 minutes,Southwestern,Salad,4.9,https://cookieandkate.com/black-bean-salad-recipe/
+633,Green Bean Salad with Toasted Almonds & Feta,35 minutes,Mediterranean,Salad,5.0,https://cookieandkate.com/green-bean-salad-recipe/
+634,Mediterranean Tomato & Feta Dip,20 minutes,Mediterranean,Appetizer,5.0,https://cookieandkate.com/tomato-feta-dip-recipe/
+635,"Celery Salad with Dates, Almonds and Parmesan",30 minutes,American,Salad,4.9,https://cookieandkate.com/celery-salad-recipe/
+636,Quinoa Broccoli Slaw with Honey-Mustard Dressing,40 minutes,American,Salad,4.9,https://cookieandkate.com/quinoa-broccoli-slaw-recipe/
+637,Colorful Chopped Salad with Carrot Ginger Dressing,20 minutes,Asian,Salad,4.9,https://cookieandkate.com/asian-chopped-green-salad-recipe/
+638,Carrot Ginger Dressing,10 mins,Asian,Salad dressing,4.8,https://cookieandkate.com/carrot-ginger-dressing-recipe/
+639,Vegetarian Italian Chopped Salad,20 mins,Italian,Salad,4.9,https://cookieandkate.com/vegetarian-italian-chopped-salad-recipe/
+640,Greek Kale Salad with Creamy Tahini Dressing,25 minutes,Greek,Salad,5.0,https://cookieandkate.com/greek-kale-salad-recipe/
+641,Mexican(ish) Kale & Quinoa Salad,40 minutes,Mexican,Salad,5.0,https://cookieandkate.com/mexican-kale-quinoa-salad/
+642,Chickpea Salad with Carrots and Dill,20 minutes,,,5.0,https://cookieandkate.com/chickpea-salad-recipe-with-carrots-dill/
+643,"Pear, Date & Walnut Salad with Blue Cheese",15 minutes,,,4.9,https://cookieandkate.com/pear-date-walnut-salad-recipe/
+644,Herbed Quinoa & Chickpea Salad with Lemon-Tahini Dressing,35 minutes,Mediterranean,Salad,4.9,https://cookieandkate.com/herbed-quinoa-chickpea-salad-recipe/
+645,Pesto Pasta Salad,25 minutes,American,Salad,4.8,https://cookieandkate.com/pesto-pasta-salad-recipe/
+646,Massaged Broccoli Rabe Salad with Sunflower Seeds & Cranberries,30 minutes,,,4.8,https://cookieandkate.com/massaged-broccoli-rabe-salad-recipe/
+647,Arugula & Watermelon Salad,15 mins,,,4.8,https://cookieandkate.com/arugula-watermelon-salad-recipe/
+648,Greek Lentil Salad,45 minutes,Greek,Salad,4.9,https://cookieandkate.com/greek-lentil-salad-recipe/
+649,Greek Wedge Salad,15 mins,Greek,Salad,4.9,https://cookieandkate.com/greek-wedge-salad-recipe/
+650,Mega Crunchy Romaine Salad with Quinoa,30 minutes,,,4.9,https://cookieandkate.com/mega-crunchy-romaine-salad-recipe/
+651,Thai Mango Salad with Peanut Dressing,20 mins,Thai,Salad,4.9,https://cookieandkate.com/thai-mango-salad-with-peanut-dressing/
+652,Heather’s Zucchini Noodles with Basil-Pumpkin Seed Pesto,20 mins,Mediterranean,Entree,4.8,https://cookieandkate.com/zucchini-noodles-with-pesto-recipe/
+653,Anything-Goes Kale Salad with Green Tahini Dressing,15 mins,American,Salad,4.9,https://cookieandkate.com/anything-goes-kale-salad-with-green-tahini-dressing/
+654,Mediterranean Roasted Sweet Potato & Farro Salad,1 hour,Mediterranean,Salad,4.9,https://cookieandkate.com/mediterranean-sweet-potato-farro-salad-recipe/
+655,"Sun-Dried Tomato, Spinach and Quinoa Salad",25 minutes,Mediterranean,Salad,4.9,https://cookieandkate.com/sun-dried-tomato-spinach-quinoa-salad-recipe/
+656,Hearty Roasted Butternut Squash & Apple Salad,1 hour 20 minutes,,,4.8,https://cookieandkate.com/roasted-butternut-squash-apple-salad-recipe/
+657,Crisp Apple & Kohlrabi Salad,10 mins,,,4.7,https://cookieandkate.com/crispy-apple-kohlrabi-salad-recipe/
+658,"Quinoa Salad with Roasted Sweet Potato, Kale & Pesto Vinaigrette",40 minutes,,,5.0,https://cookieandkate.com/quinoa-salad-recipe-with-roasted-sweet-potato-kale/
+659,Greek Farro Salad,40 minutes,Greek,Salad,4.9,https://cookieandkate.com/greek-farro-salad-recipe/
+660,Mediterranean Quinoa Salad with Roasted Summer Vegetables,35 minutes,Mediterranean,Salad,4.9,https://cookieandkate.com/mediterranean-quinoa-salad-recipe/
+661,Maureen’s Avocado Tabbouleh,50 minutes,Lebanese,Salad,4.7,https://cookieandkate.com/avocado-tabbouleh-recipe/
+662,Berry Spinach Salad with Spicy Maple Sunflower Seeds,15 minutes,,,5.0,https://cookieandkate.com/berry-spinach-salad-recipe/
+663,"Summertime Pasta Salad with Tomatoes, Corn and Jalapeño Pesto",30 minutes,American,Salad,4.9,https://cookieandkate.com/summertime-pasta-salad-recipe/
+664,Cowboy Caviar,15 mins,Southern,Appetizer,4.8,https://cookieandkate.com/cowboy-caviar-recipe/
+665,Thai-Style Lettuce Wraps,40 minutes,Asian,Appetizer,4.4,https://cookieandkate.com/thai-style-lettuce-wraps/
+666,Basil Pesto Salad Dressing,5 mins,Italian,Salad dressing,4.4,https://cookieandkate.com/basil-pesto-vinaigrette-recipe/
+667,Erin’s Spring Panzanella with Fresh Peas and Fennel,27 minutes,Tuscan,Salad,4.5,https://cookieandkate.com/spring-panzanella-recipe/
+668,Fresh Mango Salsa,15 mins,Mexican,Salsa,4.9,https://cookieandkate.com/fresh-mango-salsa-recipe/
+669,Tropical Mango Spring Rolls with Avocado-Cilantro Dipping Sauce,30 mins,Thai,Appetizer,4.8,https://cookieandkate.com/tropical-mango-spring-rolls/
+670,"Colorful Beet Salad with Carrot, Quinoa & Spinach",45 minutes,American,Salad,4.9,https://cookieandkate.com/raw-beet-salad-with-carrot-quinoa-spinach/
+671,Greek Broccoli Salad,15 mins,Greek,Salad,5.0,https://cookieandkate.com/greek-broccoli-salad-recipe/
+672,Butternut Tabbouleh,30 minutes,Lebanese,Salad,5.0,https://cookieandkate.com/butternut-tabbouleh-recipe/
+673,"Southwestern Kale Power Salad with Sweet Potato, Quinoa & Avocado Sauce",40 minutes,Mexican,Salad,4.8,https://cookieandkate.com/southwestern-kale-power-salad/
+674,Ashley’s Sun-Dried Tomato Caesar Salad,30 minutes,Italian,Salad,5.0,https://cookieandkate.com/sun-dried-tomato-caesar-salad/
+675,"Simple Beet, Arugula and Feta Salad with Hilary’s Balsamic Thyme Dressing",15 mins,,,4.8,https://cookieandkate.com/simple-beet-arugula-and-feta-salad-with-hilarys-balsamic-thyme-dressing/
+676,"Balsamic Butternut, Kale and Cranberry Panzanella",1 hour,Tuscan,Salad,5.0,https://cookieandkate.com/balsamic-butternut-kale-cranberry-panzanella/
+677,Herbed Quinoa and Pomegranate Salad,40 minutes,Mediterranean,Salad,5.0,https://cookieandkate.com/herbed-quinoa-and-pomegranate-salad/
+678,"Autumn Kale Salad with Fennel, Honeycrisp and Goat Cheese",20 mins,,,4.9,https://cookieandkate.com/autumn-kale-salad-with-fennel-honeycrisp-and-goat-cheese/
+679,"Grilled Summer Salad with Corn, Peppers and Chili-Lime Dressing",30 minutes,,,5.0,https://cookieandkate.com/vegetarian-grilled-summer-salad-with-corn-peppers-and-chili-lime-dressing/
+680,"Mason Jar Chickpea, Farro and Greens Salad (& lunch packing tips!)",45 minutes,,,4.9,https://cookieandkate.com/mason-jar-chickpea-farro-and-greens-salad/
+681,Strawberry and Spinach Salad with Quinoa and Goat Cheese,30 minutes,,,4.8,https://cookieandkate.com/strawberry-and-spinach-salad-with-quinoa-and-goat-cheese/
+682,Thai Mango Cabbage Wraps with Crispy Tofu and Peanut Sauce,1 hour,Thai,Appetizer/Entree,4.9,https://cookieandkate.com/thai-mango-cabbage-wraps/
+683,Cherry Couscous & Arugula Salad with Balsamic Vinaigrette,25 minutes,,,4.8,https://cookieandkate.com/cherry-couscous-arugula-salad-in-balsamic-vinaigrette/
+684,Feta Fiesta Kale Salad with Avocado and Crispy Tortilla Strips,25 minutes,Mexican,Salad,5.0,https://cookieandkate.com/feta-fiesta-kale-salad-with-avocado-and-crispy-tortilla-strips/
+685,Asian Brussels Sprout Slaw with Carrots and Almonds,25 minutes,Asian,Salad,4.8,https://cookieandkate.com/asian-brussels-sprout-slaw-with-carrots-and-almonds/
+686,"Roasted Cherry Tomato, Arugula and Sorghum Salad",1 hour 20 minutes,,,4.2,https://cookieandkate.com/roasted-cherry-tomato-arugula-and-sorghum-salad/
+687,Strawberry Kale Salad with Nutty Granola Croutons,45 minutes,,,4.8,https://cookieandkate.com/strawberry-kale-salad-with-nutty-granola-croutons/
+688,Sugar Snap Pea and Carrot Soba Noodles,30 minutes,Asian,Main,4.8,https://cookieandkate.com/sugar-snap-pea-and-carrot-soba-noodles/
+689,Lemony Lentil and Chickpea Salad with Radish and Herbs,45 minutes,French,Salad,4.6,https://cookieandkate.com/lemony-lentil-and-chickpea-salad-with-radish-and-herbs/
+690,"Spring Carrot, Radish and Quinoa Salad with Herbed Avocado",35 minutes,,,5.0,https://cookieandkate.com/spring-carrot-radish-and-quinoa-salad-with-herbed-avocado/
+691,"Blood Orange, Fennel and Avocado Salad with Lemon Citronette",15 mins,,,4.8,https://cookieandkate.com/blood-orange-fennel-and-avocado-salad-with-lemon-citronette/
+692,Greek Salad with Broccoli and Sun-Dried Tomatoes,20 mins,Greek,Salad,4.6,https://cookieandkate.com/greek-salad-with-broccoli-and-sun-dried-tomatoes/
+693,"Kale, Clementine and Feta Salad with Honey-Lime Dressing",25 minutes,Vegetarian,Salad,5.0,https://cookieandkate.com/kale-clementine-feta-salad-honey-lime-dressing/
+694,"Roasted Delicata Squash, Pomegranate and Arugula Salad",45 minutes,,,5.0,https://cookieandkate.com/roasted-delicata-squash-pomegranate-arugula-salad/
+695,Heart of Romaine Salad with Pico de Gallo and Avocado Dressing,25 minutes,Mexican,Salad,5.0,https://cookieandkate.com/heart-of-romaine-salad-with-pico-de-gallo-and-avocado-dressing/
+696,Heirloom BLT Salad (with Coconut Bacon!),30 minutes,,,4.8,https://cookieandkate.com/heirloom-blt-salad-with-coconut-bacon/
+697,Lebanese Lemon-Parsley Bean Salad,15 mins,Mediterranean,Salad,4.9,https://cookieandkate.com/lemon-parsley-bean-salad-and-hummus/
+698,Greek Farro and Chickpea Salad with Herbed Yogurt,25 minutes,Greek,Salad,4.7,https://cookieandkate.com/greek-farro-and-chickpea-salad-with-herbed-yogurt/
+699,"Chopped Kale Salad with Edamame, Carrot and Avocado",20 mins,Asian,Salad,5.0,https://cookieandkate.com/chopped-kale-salad-with-edamame-carrot-and-avocado/
+700,Summer Squash Salad with Lemon Citronette,25 mins,,,4.7,https://cookieandkate.com/summer-squash-salad-with-lemon-citronette/
+701,The Little Green Salad,15 minutes,,,5.0,https://cookieandkate.com/the-little-green-salad/
+702,Raw Kale and Brussels Sprouts Salad with Tahini-Maple Dressing,20 minutes,American,Salad,4.8,https://cookieandkate.com/raw-kale-and-brussels-sprouts-salad-with-tahini-maple-dressing/
+703,"Orange, Apricot and Carrot Couscous",30 minutes,Middle Eastern,Salad,4.8,https://cookieandkate.com/orange-apricot-and-carrot-couscous/
+704,"Deb’s Kale Salad with Apple, Cranberries and Pecans",20 mins,,,5.0,https://cookieandkate.com/debs-kale-salad-with-apple-cranberries-and-pecans/
+705,Blackened Green Bean and Quinoa Salad,35 minutes,,,5.0,https://cookieandkate.com/blackened-green-bean-and-quinoa-salad/
+706,Spicy Sun-Dried Tomato and Broccoli Pasta,35 minutes,Vegetarian,Pasta,4.9,https://cookieandkate.com/spicy-sun-dried-tomato-and-broccoli-pasta/
+707,Summer Rolls with Spicy Peanut Sauce,45 minutes,Thai,Appetizer,5.0,https://cookieandkate.com/summer-rolls-with-spicy-peanut-sauce/
+708,Coconut Quinoa and Kale with Tropical Pesto + Notes on Belize,35 minutes,Belizean-inspired,Salad,5.0,https://cookieandkate.com/coconut-quinoa-and-kale-with-tropical-pesto/
+709,"Stacked Tomato, Summer Vegetable and Grilled Bread Salad",45 minutes,,,5.0,https://cookieandkate.com/stacked-tomato-summer-vegetable-and-grilled-bread-salad/
+710,Sweet Corn Salad Wraps,50 minutes,,,5.0,https://cookieandkate.com/sweet-corn-salad-wraps/
+711,"Arugula, Carrot and Chickpea Salad with Wheat Berries",1 hour 15 minutes,,,4.5,https://cookieandkate.com/arugula-carrot-and-chickpea-salad-with-wheat-berries/
+712,African Black-Eyed Pea Salad,1 hour 15 mins,African,Salad,4.9,https://cookieandkate.com/african-black-eyed-pea-salad/
+713,Raw Kale Salad with Creamy Tahini Dressing,15 mins,,,4.3,https://cookieandkate.com/raw-kale-salad-with-creamy-tahini-dressing/
+714,"Strawberry, Quinoa and Chopped Spinach Salad",30 minutes,,,5.0,https://cookieandkate.com/strawberry-quinoa-and-chopped-spinach-salad/
+715,Ribboned Asparagus and Quinoa Salad,30 minutes,,,4.5,https://cookieandkate.com/shaved-asparagus-quinoa-salad/
+716,Watercress and Forbidden Rice Salad with Ginger Vinaigrette,50 minutes,,,5.0,https://cookieandkate.com/watercress-wild-rice-salad/
+717,Pomegranate Quinoa Salad,35 minutes,Mediterranean,Salad,5.0,https://cookieandkate.com/pomegranate-quinoa-salad/
+718,Winter Apple Slaw,1 hour 20 mins,,,5.0,https://cookieandkate.com/apple-slaw-recipe/
+719,Asian Raw Kale Salad with Red Pepper Dressing,15 minutes,,,4.9,https://cookieandkate.com/raw-kale-asian-salad/
+720,"Raw Kale, Apple & Avocado Salad",15 minutes,,,4.0,https://cookieandkate.com/raw-kale-apple-avocado-salad-recipe/
+721,Strawberry Spinach Salad with Sweet and Spicy Walnuts,10 minutes,,,4.7,https://cookieandkate.com/strawberry-spinach-salad-with-sweet-and-spicy-walnuts/
+722,Quinoa Tabouli,25 minutes,,,4.3,https://cookieandkate.com/quinoa-tabbouleh-recipe/
+723,Arugula and Goat Cheese Pasta Salad,15 minutes,,,4.7,https://cookieandkate.com/arugula-and-goat-cheese-pasta-salad/
+724,Chickpea Salad,10 minutes,,,5.0,https://cookieandkate.com/chickpea-salad-recip/
+725,"Strawberry, Basil and Goat Cheese Salad with Balsamic Drizzle",15 minutes,Vegetarian,Salad,4.9,https://cookieandkate.com/strawberry-basil-goat-cheese-salad-recipe/
+726,How to Cook Perfect Brown Rice,32 minutes (plus 10 minutes for steaming),Whole grain,Side dish,4.7,https://cookieandkate.com/perfect-brown-rice-recipe/
+727,Herbed Potato Salad (no mayo!),25 minutes,French,Salad,4.7,https://cookieandkate.com/herbed-potato-salad-recipe/
+728,Crispy Smashed Potatoes,1 hour 5 minutes,American,Side dish,4.8,https://cookieandkate.com/crispy-smashed-potatoes-recipe/
+729,Perfect Roasted Asparagus,15 minutes,Italian,Side Dish,4.6,https://cookieandkate.com/perfect-roasted-asparagus-recipe/
+730,Farro and Kale Salad with Goat Cheese,45 minutes,Vegetarian,Salad,4.9,https://cookieandkate.com/farro-kale-goat-cheese-salad-recipe/
+731,Classic Tomato Soup (Lightened Up!),55 minutes,American,Soup,5.0,https://cookieandkate.com/classic-tomato-soup-recipe/
+732,Turmeric-Spiced Whole Roasted Cauliflower,1 hour 40 minutes,Vegetarian,Main dish,5.0,https://cookieandkate.com/turmeric-whole-roasted-cauliflower-recipe/
+733,Perfect Roasted Broccoli,25 minutes,American,Side dish,4.5,https://cookieandkate.com/perfect-roasted-broccoli-recipe/
+734,Quick Collard Greens,15 minutes,Brazilian,Side dish,5.0,https://cookieandkate.com/quick-collard-greens-recipe/
+735,Kale Colcannon,40 minutes,Irish,Side dish,5.0,https://cookieandkate.com/kale-colcannon-recipe/
+736,Blood Orange & Avocado Salad,30 minutes,Californian,Salad,5.0,https://cookieandkate.com/blood-orange-avocado-salad-recipe/
+737,Simple Healthy Slaw,20 minutes,American,Salad,4.9,https://cookieandkate.com/simple-healthy-coleslaw-recipe/
+738,Crispy Baked Sweet Potato Fries,45 minutes,American,"Side dish, snack",4.3,https://cookieandkate.com/baked-sweet-potato-fries/
+739,Pomegranate & Pear Green Salad with Ginger Dressing,30 minutes,American,Salad,5.0,https://cookieandkate.com/pomegranate-pear-green-salad-with-ginger-dressing/
+740,Naturally Sweetened Cranberry Sauce,10 minutes,American,Condiment,4.8,https://cookieandkate.com/naturally-sweetened-cranberry-sauce-recipe/
+741,Balsamic Roasted Brussels Sprouts with Cranberries & Pecans,35 minutes,American,Side dish,5.0,https://cookieandkate.com/balsamic-roasted-brussels-sprouts-recipe/
+742,Arugula and Wild Rice Salad with Zippy Lemon Dressing,55 minutes,American,Salad,5.0,https://cookieandkate.com/arugula-wild-rice-salad-recipe/
+743,Perfect Roasted Carrots (Three Ways!),40 minutes,American,Side Dish,4.8,https://cookieandkate.com/perfect-roasted-carrots-recipe/
+744,Creamy Roasted Cauliflower Soup,1 hour 10 minutes,Vegetarian,Soup,4.8,https://cookieandkate.com/creamy-roasted-cauliflower-soup-recipe/
+745,Shredded Brussels Sprouts & Arugula Salad with Sunshine Dressing,30 minutes,Vegetarian,Salad,5.0,https://cookieandkate.com/shredded-brussels-sprouts-arugula-salad-recipe/
+746,Fattoush Salad with Mint Dressing,35 minutes,Lebanese,Salad,4.9,https://cookieandkate.com/fattoush-salad-recipe-with-mint-dressing/
+747,Fresh Herbed Avocado Salad,30 minutes,Mexican,Salad,4.9,https://cookieandkate.com/fresh-herbed-avocado-salad-recipe/
+748,Heirloom Caprese Salad,20 minutes,Italian,Salad,5.0,https://cookieandkate.com/best-caprese-salad-recipe/
+749,Avocado Toast (Plus Tips & Variations),5 minutes,American,"Breakfast, Snack",4.9,https://cookieandkate.com/avocado-toast-recipe/
+750,Garden-Fresh Corn Salad,30 minutes,American,Salad,4.8,https://cookieandkate.com/garden-fresh-corn-salad/
+751,Fresh Corn Salsa,20 minutes,Mexican,"Salsa, appetizer",4.9,https://cookieandkate.com/fresh-corn-salsa-recipe/
+752,Tropical Fruit Salad,30 minutes,Costa Rican,Salad,5.0,https://cookieandkate.com/tropical-fruit-salad-recipe/
+753,French Carrot Salad,20 minutes (plus 20-minute marinating time),French,Salad,4.8,https://cookieandkate.com/french-carrot-salad-recipe/
+754,Ultra Crispy Baked Potato Wedges,1 hour 20 minutes,American,Side Dish,4.9,https://cookieandkate.com/crispy-baked-potato-wedges-recipe/
+755,Peanut Slaw with Soba Noodles,25 minutes,Asian,Salad,4.9,https://cookieandkate.com/peanut-soba-noodle-slaw-recipe/
+756,Loaded Veggie Nachos,25 minutes,Mexican,Appetizer,5.0,https://cookieandkate.com/loaded-veggie-nachos-recipe/
+757,Easy Refried Beans,25 minutes,Mexican,Side Dish,4.9,https://cookieandkate.com/easy-refried-beans-recipe/
+758,Gaby’s Cucumber Salad,5 minutes,Californian,Salad,5.0,https://cookieandkate.com/best-cucumber-salad-recipe/
+759,Real Stovetop Mac and Cheese,20 minutes,American,Entree,4.5,https://cookieandkate.com/stovetop-mac-and-cheese-recipe/
+760,Jessica’s Marinated Chickpeas,15 minutes (plus 30 minute optional marinating time),Mediterranean,Salad,4.9,https://cookieandkate.com/marinated-chickpeas-recipe/
+761,Parmesan Roasted Broccoli with Balsamic Drizzle,35 minutes,Mediterranean,Side Dish,4.9,https://cookieandkate.com/parmesan-roasted-broccoli-recipe/
+762,Chopped Greek Salad,30 minutes,Greek,Salad,4.8,https://cookieandkate.com/chopped-greek-salad-recipe/
+763,Delicious Crispy Hash Browns,30 minutes,American,Breakfast,4.6,https://cookieandkate.com/crispy-hash-browns-recipe/
+764,Roasted & Raw Carrot Salad with Avocado,50 minutes,American,Salad,4.9,https://cookieandkate.com/roasted-raw-carrot-salad-recipe/
+765,Mediterranean Cauliflower Rice,35 minutes,Mediterranean,Side Dish,4.9,https://cookieandkate.com/mediterranean-cauliflower-rice-recipe/
+766,Avocado & Citrus “Ceviche”,30 minutes,Peruvian,Appetizer,5.0,https://cookieandkate.com/vegan-citrus-ceviche-recipe/
+767,Sunshine Slaw with Quinoa,40 minutes (plus 20 minute rest),American,Salad,5.0,https://cookieandkate.com/sunshine-quinoa-slaw-recipe/
+768,Vibrant Orange & Arugula Salad,20 minutes,Mediterranean,Salad,4.9,https://cookieandkate.com/orange-arugula-salad-recipe/
+769,"Orange Orzo Salad with Almonds, Feta and Olives",25 minutes (plus 10 minutes for marinating),Mediterranean,Salad,5.0,https://cookieandkate.com/orange-orzo-salad-recipe/
+770,Favorite Broccoli Salad,20 minutes (plus 20 minutes marinating time),Mediterranean,Salad,5.0,https://cookieandkate.com/favorite-broccoli-salad-recipe/
+771,Savory Mashed Sweet Potatoes,30 minutes,American,Side Dish,4.9,https://cookieandkate.com/savory-mashed-sweet-potatoes/
+772,Lucille’s Mashed Potatoes,35 minutes (plus optional 30-minute reheat time),American,Side,4.9,https://cookieandkate.com/lucilles-mashed-potatoes-recipe/
+773,Hot Pink Coconut Slaw,25 minutes,,,4.9,https://cookieandkate.com/coconut-slaw-recipe/
+774,Favorite Quinoa Salad,40 minutes,Mediterranean,Salad,4.9,https://cookieandkate.com/best-quinoa-salad-recipe/
+775,Mexican Green Salad with Jalapeño-Cilantro Dressing,35 minutes,Mexican,Salad,4.7,https://cookieandkate.com/mexican-green-salad-recipe/
+776,Crunchy Thai Peanut & Quinoa Salad,40 minutes,Thai,Salad,5.0,https://cookieandkate.com/thai-peanut-quinoa-salad-recipe/
+777,Colorful Veggie Lettuce Wraps,25 minutes,Asian,Appetizer,4.4,https://cookieandkate.com/vegetable-lettuce-wraps-recipe/
+778,Fresh Black Bean Salad,20 minutes,Southwestern,Salad,4.9,https://cookieandkate.com/black-bean-salad-recipe/
+779,Green Bean Salad with Toasted Almonds & Feta,35 minutes,Mediterranean,Salad,5.0,https://cookieandkate.com/green-bean-salad-recipe/
+780,The Ultimate Gazpacho,25 minutes,Spanish,Soup,4.8,https://cookieandkate.com/ultimate-gazpacho-recipe/
+781,"Celery Salad with Dates, Almonds and Parmesan",30 minutes,American,Salad,4.9,https://cookieandkate.com/celery-salad-recipe/
+782,Quinoa Broccoli Slaw with Honey-Mustard Dressing,40 minutes,American,Salad,4.9,https://cookieandkate.com/quinoa-broccoli-slaw-recipe/
+783,Colorful Chopped Salad with Carrot Ginger Dressing,20 minutes,Asian,Salad,4.9,https://cookieandkate.com/asian-chopped-green-salad-recipe/
+784,Spring Veggie Stir-Fry,20 minutes,Chinese,Side dish,5.0,https://cookieandkate.com/veggie-stir-fry-recipe/
+785,Vegetarian Italian Chopped Salad,20 mins,Italian,Salad,4.9,https://cookieandkate.com/vegetarian-italian-chopped-salad-recipe/
+786,Roasted Mushrooms with Herbed Quinoa,40 minutes,American,Side,4.8,https://cookieandkate.com/roasted-mushrooms-with-herbed-quinoa/
+787,Greek Kale Salad with Creamy Tahini Dressing,25 minutes,Greek,Salad,5.0,https://cookieandkate.com/greek-kale-salad-recipe/
+788,Mexican(ish) Kale & Quinoa Salad,40 minutes,Mexican,Salad,5.0,https://cookieandkate.com/mexican-kale-quinoa-salad/
+789,Chickpea Salad with Carrots and Dill,20 minutes,,,5.0,https://cookieandkate.com/chickpea-salad-recipe-with-carrots-dill/
+790,Fluffy Beer Biscuits,35 minutes,,,4.8,https://cookieandkate.com/fluffy-beer-biscuits-recipe/
+791,Mexican Brown Rice,1 hour 30 minutes,Mexican,Side Dish,4.8,https://cookieandkate.com/mexican-brown-rice-recipe/
+792,Almost Homemade Green Bean Casserole,55 minutes,American,Side Dish,4.6,https://cookieandkate.com/homemade-green-bean-casserole/
+793,Herbed Quinoa & Chickpea Salad with Lemon-Tahini Dressing,35 minutes,Mediterranean,Salad,4.9,https://cookieandkate.com/herbed-quinoa-chickpea-salad-recipe/
+794,Pesto Pasta Salad,25 minutes,American,Salad,4.8,https://cookieandkate.com/pesto-pasta-salad-recipe/
+795,Greek Lentil Salad,45 minutes,Greek,Salad,4.9,https://cookieandkate.com/greek-lentil-salad-recipe/
+796,Summertime Fruit Salad,15 mins,American,Side dish,5.0,https://cookieandkate.com/summertime-fruit-salad-recipe/
+797,Heather’s Zucchini Noodles with Basil-Pumpkin Seed Pesto,20 mins,Mediterranean,Entree,4.8,https://cookieandkate.com/zucchini-noodles-with-pesto-recipe/
+798,Roasted Breakfast Potatoes,1 hour,American,Breakfast,4.9,https://cookieandkate.com/roasted-breakfast-potatoes-recipe/
+799,Roasted Carrots with Honey Butter,45 minutes,,,4.9,https://cookieandkate.com/andies-roasted-carrots-with-honey-butter/
+800,How to Cook Perfect Quinoa & 10 Quinoa Recipes,22 minutes,Peruvian,Staple,4.8,https://cookieandkate.com/perfect-quinoa/
+801,"Sun-Dried Tomato, Spinach and Quinoa Salad",25 minutes,Mediterranean,Salad,4.9,https://cookieandkate.com/sun-dried-tomato-spinach-quinoa-salad-recipe/
+802,Kung Pao Brussels Sprouts,45 minutes,,,5.0,https://cookieandkate.com/kung-pao-brussels-sprouts-recipe/
+803,Lemony Roasted Potatoes & Broccoli Rabe,45 minutes,Italian,Side dish,5.0,https://cookieandkate.com/lemony-roasted-potatoes-broccoli-rabe-recipe/
+804,"Roasted Carrots with Farro, Chickpeas & Herbed Crème Fraîche",1 hour,Vegetarian,Entree,4.9,https://cookieandkate.com/roasted-carrots-recipe-with-farro-chickpeas/
+805,Crisp Apple & Kohlrabi Salad,10 mins,,,4.7,https://cookieandkate.com/crispy-apple-kohlrabi-salad-recipe/
+806,"Quinoa Salad with Roasted Sweet Potato, Kale & Pesto Vinaigrette",40 minutes,,,5.0,https://cookieandkate.com/quinoa-salad-recipe-with-roasted-sweet-potato-kale/
+807,Lentil & Couscous Stuffed Peppers,40 minutes,Mediterranean,Entree,4.9,https://cookieandkate.com/lentil-couscous-stuffed-peppers-recipe/
+808,Greek Farro Salad,40 minutes,Greek,Salad,4.9,https://cookieandkate.com/greek-farro-salad-recipe/
+809,Mediterranean Quinoa Salad with Roasted Summer Vegetables,35 minutes,Mediterranean,Salad,4.9,https://cookieandkate.com/mediterranean-quinoa-salad-recipe/
+810,Maureen’s Avocado Tabbouleh,50 minutes,Lebanese,Salad,4.7,https://cookieandkate.com/avocado-tabbouleh-recipe/
+811,Berry Spinach Salad with Spicy Maple Sunflower Seeds,15 minutes,,,5.0,https://cookieandkate.com/berry-spinach-salad-recipe/
+812,"Summertime Pasta Salad with Tomatoes, Corn and Jalapeño Pesto",30 minutes,American,Salad,4.9,https://cookieandkate.com/summertime-pasta-salad-recipe/
+813,Cowboy Caviar,15 mins,Southern,Appetizer,4.8,https://cookieandkate.com/cowboy-caviar-recipe/
+814,Thai-Style Lettuce Wraps,40 minutes,Asian,Appetizer,4.4,https://cookieandkate.com/thai-style-lettuce-wraps/
+815,"Colorful Beet Salad with Carrot, Quinoa & Spinach",45 minutes,American,Salad,4.9,https://cookieandkate.com/raw-beet-salad-with-carrot-quinoa-spinach/
+816,Greek Broccoli Salad,15 mins,Greek,Salad,5.0,https://cookieandkate.com/greek-broccoli-salad-recipe/
+817,Butternut Tabbouleh,30 minutes,Lebanese,Salad,5.0,https://cookieandkate.com/butternut-tabbouleh-recipe/
+818,Creamy Roasted Brussels Sprout and Quinoa Gratin,45 minutes,Vegetarian,Main,5.0,https://cookieandkate.com/brussels-sprout-quinoa-gratin/
+819,Herbed Quinoa and Pomegranate Salad,40 minutes,Mediterranean,Salad,5.0,https://cookieandkate.com/herbed-quinoa-and-pomegranate-salad/
+820,Roasted Red Pepper Tortilla Soup,1 hour 10 minutes,Mexican,Soup,5.0,https://cookieandkate.com/roasted-red-pepper-tortilla-soup/
+821,"Autumn Kale Salad with Fennel, Honeycrisp and Goat Cheese",20 mins,,,4.9,https://cookieandkate.com/autumn-kale-salad-with-fennel-honeycrisp-and-goat-cheese/
+822,Asian Brussels Sprout Slaw with Carrots and Almonds,25 minutes,Asian,Salad,4.8,https://cookieandkate.com/asian-brussels-sprout-slaw-with-carrots-and-almonds/
+823,Lemony Lentil and Chickpea Salad with Radish and Herbs,45 minutes,French,Salad,4.6,https://cookieandkate.com/lemony-lentil-and-chickpea-salad-with-radish-and-herbs/
+824,Quick Roasted Brussels Sprouts with Coconut Ginger Sauce,15 minutes,,,4.8,https://cookieandkate.com/quick-roasted-brussels-sprouts-coconut-ginger-sauce/
+825,Lebanese Lemon-Parsley Bean Salad,15 mins,Mediterranean,Salad,4.9,https://cookieandkate.com/lemon-parsley-bean-salad-and-hummus/
+826,Summer Squash Salad with Lemon Citronette,25 mins,,,4.7,https://cookieandkate.com/summer-squash-salad-with-lemon-citronette/
+827,Sesame-Ginger and Cucumber Soba Noodles,28 minutes,Japanese,Entree,4.9,https://cookieandkate.com/sesame-ginger-and-cucumber-soba-noodles/
+828,"Orange, Apricot and Carrot Couscous",30 minutes,Middle Eastern,Salad,4.8,https://cookieandkate.com/orange-apricot-and-carrot-couscous/
+829,Cranberry-Maple Skillet Cornbread,45 minutes,American,Quick Bread,4.6,https://cookieandkate.com/cranberry-maple-skillet-cornbread/
+830,Blackened Green Bean and Quinoa Salad,35 minutes,,,5.0,https://cookieandkate.com/blackened-green-bean-and-quinoa-salad/
+831,Beer Bean-Stuffed Poblano Peppers,1 hour 35 minutes,Mexican,Main,4.7,https://cookieandkate.com/beer-bean-stuffed-poblano-peppers/
+832,African Black-Eyed Pea Salad,1 hour 15 mins,African,Salad,4.9,https://cookieandkate.com/african-black-eyed-pea-salad/
+833,Crispy Baked French Fries,35 minutes,American,Side,4.5,https://cookieandkate.com/crispy-baked-french-fries/
+834,Watercress and Forbidden Rice Salad with Ginger Vinaigrette,50 minutes,,,5.0,https://cookieandkate.com/watercress-wild-rice-salad/
+835,Pomegranate Quinoa Salad,35 minutes,Mediterranean,Salad,5.0,https://cookieandkate.com/pomegranate-quinoa-salad/
+836,Winter Apple Slaw,1 hour 20 mins,,,5.0,https://cookieandkate.com/apple-slaw-recipe/
+837,Roasted Brussels Sprouts and Cranberries with Barley,20 minutes,,,4.9,https://cookieandkate.com/roasted-brussels-sprouts-with-cranberries-and-barley/
+838,Baked Rice with Herbs and Veggies,1 hour 45 minutes,,,4.7,https://cookieandkate.com/healthy-baked-rice-recipe/
+839,Roasted Red Pepper and Tomato Soup,1 hour 10 minutes,,,4.5,https://cookieandkate.com/roasted-red-pepper-and-tomato-soup/
+840,Mediterranean Stuffed Tomatoes with Quinoa,30 minutes,,,5.0,https://cookieandkate.com/stuffed-tomatoes-with-quinoa/
+841,Quinoa Tabouli,25 minutes,,,4.3,https://cookieandkate.com/quinoa-tabbouleh-recipe/
+842,Rosemary Parmesan Sweet Potato,55 minutes,,,5.0,https://cookieandkate.com/rosemary-parmesan-sweet-potato/
+843,Chickpea Salad,10 minutes,,,5.0,https://cookieandkate.com/chickpea-salad-recip/
+844,Crispy Baked Sweet Potato Fries,45 minutes,American,"Side dish, snack",4.3,https://cookieandkate.com/baked-sweet-potato-fries/
+845,The Very Best Granola,26 minutes,American,Breakfast,4.9,https://cookieandkate.com/healthy-granola-recipe/
+846,Easy Chocolate Bark,20 minutes (plus 15 minutes cool time),American,Candy,4.8,https://cookieandkate.com/easy-chocolate-bark-recipe/
+847,Apple & Carrot “Superhero” Muffins,45 minutes,Gluten free,Muffins,4.9,https://cookieandkate.com/apple-carrot-muffins-recipe/
+848,Baked Jalapeño Poppers,35 minutes,American,Appetizer,4.9,https://cookieandkate.com/baked-jalapeno-poppers-recipe/
+849,Classic Pico de Gallo,15 mins,Mexican,Dip,5.0,https://cookieandkate.com/classic-pico-de-gallo-recipe/
+850,Chunky Avocado Salsa,20 minutes,Mexican,Dip,5.0,https://cookieandkate.com/chunky-avocado-salsa-recipe/
+851,Avocado Toast (Plus Tips & Variations),5 minutes,American,"Breakfast, Snack",4.9,https://cookieandkate.com/avocado-toast-recipe/
+852,"Torn Olives with Almonds, Celery & Parmesan",15 minutes,Mediterranean,Appetizer,5.0,https://cookieandkate.com/torn-olives-with-almonds-celery-parmesan/
+853,Fresh Corn Salsa,20 minutes,Mexican,"Salsa, appetizer",4.9,https://cookieandkate.com/fresh-corn-salsa-recipe/
+854,Fresh Jalapeño Relish,20 minutes (plus 1 hour chill time),Mexican,"Sauce, dip",4.9,https://cookieandkate.com/fresh-jalapeno-relish-recipe/
+855,Tropical Fruit Salad,30 minutes,Costa Rican,Salad,5.0,https://cookieandkate.com/tropical-fruit-salad-recipe/
+856,Strawberry Oat Muffins,40 minutes,American,Muffins,4.7,https://cookieandkate.com/strawberry-oat-muffins-recipe/
+857,Vegan Sour Cream,10 minutes (plus 4 hours soaking time if needed),Vegan,Sauce,4.8,https://cookieandkate.com/vegan-sour-cream-recipe/
+858,Best Tahini Sauce,20 minutes,Middle Eastern,Sauce,4.9,https://cookieandkate.com/best-tahini-sauce-recipe/
+859,Ultra Crispy Baked Potato Wedges,1 hour 20 minutes,American,Side Dish,4.9,https://cookieandkate.com/crispy-baked-potato-wedges-recipe/
+860,The Best Hummus,40 minutes,Israeli,Dip,4.9,https://cookieandkate.com/best-hummus-recipe/
+861,Zhoug! (Spicy Cilantro Sauce),10 minutes,Middle Eastern,Condiment,4.7,https://cookieandkate.com/zhoug-sauce-recipe/
+862,No-Bake Greek Yogurt Tart,30 minutes,American,Dessert,5.0,https://cookieandkate.com/no-bake-greek-yogurt-tart-recipe/
+863,Loaded Veggie Nachos,25 minutes,Mexican,Appetizer,5.0,https://cookieandkate.com/loaded-veggie-nachos-recipe/
+864,Quick-Pickled Onions,10 minutes (plus 30 minutes cooling time),Mexican,Condiment,4.9,https://cookieandkate.com/quick-pickled-onions-recipe/
+865,Creamy Avocado Dip,5 minutes,Mexican,Appetizer,4.8,https://cookieandkate.com/creamy-avocado-dip-recipe/
+866,Easy Refried Beans,25 minutes,Mexican,Side Dish,4.9,https://cookieandkate.com/easy-refried-beans-recipe/
+867,Best Red Salsa (Ready in 10 Minutes),10 minutes,Mexican,Sauce,4.8,https://cookieandkate.com/best-red-salsa-recipe/
+868,Healthy Blueberry Muffins,35 minutes,American,Muffin,4.9,https://cookieandkate.com/healthy-blueberry-muffins/
+869,Perfect Stovetop Popcorn,10 minutes,American,Snack,4.9,https://cookieandkate.com/perfect-stovetop-popcorn-recipe/
+870,Jessica’s Marinated Chickpeas,15 minutes (plus 30 minute optional marinating time),Mediterranean,Salad,4.9,https://cookieandkate.com/marinated-chickpeas-recipe/
+871,How to Make Almond Butter,25 minutes,American,Nut Butter,4.8,https://cookieandkate.com/homemade-almond-butter-recipe/
+872,Baked Goat Cheese with Tomato Sauce,40 minutes,Mediterranean,Appetizer,5.0,https://cookieandkate.com/baked-goat-cheese-with-tomato-sauce/
+873,Avocado & Citrus “Ceviche”,30 minutes,Peruvian,Appetizer,5.0,https://cookieandkate.com/vegan-citrus-ceviche-recipe/
+874,Orange & Almond Granola,30 minutes,Mediterranean,Breakfast,4.9,https://cookieandkate.com/orange-almond-granola-recipe/
+875,Sesame Caramel Corn,25 minutes,,,5.0,https://cookieandkate.com/sesame-caramel-popcorn-recipe/
+876,How to Make Applesauce,30 minutes,American,Side,4.8,https://cookieandkate.com/how-to-make-applesauce/
+877,Epic Baba Ganoush,55 minutes,Lebanese,Appetizer,4.8,https://cookieandkate.com/epic-baba-ganoush-recipe/
+878,Toasted Sesame Hummus,18 minutes,Mediterranean,Appetizer,4.7,https://cookieandkate.com/toasted-sesame-hummus-recipe/
+879,Baked Spinach Artichoke Dip,45 minutes,Mediterranean,Appetizer,4.8,https://cookieandkate.com/baked-spinach-artichoke-dip-recipe/
+880,Corn & Cherry Tomato Salsa,1 hour,Mexican,Sauce,5.0,https://cookieandkate.com/corn-cherry-tomato-salsa-recipe/
+881,Edamame Hummus,20 minutes,Vegan,Appetizer,4.8,https://cookieandkate.com/edamame-hummus-recipe/
+882,Pecan Granola Bars,25 minutes,American,Snack,4.9,https://cookieandkate.com/pecan-granola-bars-recipe/
+883,Creamy Vegan Queso,30 minutes,Mexican,Appetizer,4.8,https://cookieandkate.com/vegan-queso-recipe/
+884,Hummus Quesadillas!,15 minutes,Mediterranean,Entree,5.0,https://cookieandkate.com/hummus-quesadillas-recipe/
+885,Avocado Pesto Toast,20 minutes,Mediterranean,Breakfast,4.9,https://cookieandkate.com/avocado-pesto-toast-recipe/
+886,Shatta (Middle Eastern Hot Sauce),15 mins,Middle Eastern,Condiment,4.8,https://cookieandkate.com/shatta-middle-eastern-jalapeno-sauce/
+887,Strawberry Salsa,10 mins,Mexican,Appetizer,5.0,https://cookieandkate.com/strawberry-salsa-recipe/
+888,Chocolate Peppermint Cups,42 minutes,,,5.0,https://cookieandkate.com/chocolate-peppermint-cups-recipe/
+889,My Favorite Chia Seed Pudding,1 hour 5 mins,Vegan,Dessert,4.3,https://cookieandkate.com/chia-seed-pudding-recipe/
+890,The Easiest Berry Chia Jam,10 minutes (Plus 3 hours chill time),Vegan,Condiment,4.9,https://cookieandkate.com/berry-chia-seed-jam-recipe/
+891,Healthy Pumpkin Bread!,1 hour 5 minutes,American,Quick Bread,4.8,https://cookieandkate.com/healthy-pumpkin-bread-recipe/
+892,Spicy Quick-Pickled Veggies,20 minutes,Mexican,Condiment,4.5,https://cookieandkate.com/spicy-quick-pickled-vegetables-recipe/
+893,Summertime Fruit Salad,15 mins,American,Side dish,5.0,https://cookieandkate.com/summertime-fruit-salad-recipe/
+894,Almond Coconut Granola Bars,15 mins,,,4.8,https://cookieandkate.com/almond-coconut-granola-bars/
+895,Fresh Seven-Layer Dip,30 minutes,Mexican,Appetizer,5.0,https://cookieandkate.com/fresh-seven-layer-dip-recipe/
+896,Triple Coconut Granola,30 minutes,,,4.9,https://cookieandkate.com/triple-coconut-granola-recipe/
+897,Clumpy Granola with Stewed Rhubarb from Chickpea Flour Does It All,45 minutes,,,4.8,https://cookieandkate.com/clumpy-granola-recipe/
+898,Kale Guacamole,15 mins,Mexican,Appetizer,5.0,https://cookieandkate.com/kale-guacamole-recipe/
+899,Creamy Chia Pudding,20 mins,,,4.9,https://cookieandkate.com/creamy-chia-pudding-recipe/
+900,Cranberry Orange Granola Bars,15 mins,,,4.9,https://cookieandkate.com/cranberry-orange-granola-bars/
+901,Creamy Peach & Honey Popsicles,40 minutes,,,5.0,https://cookieandkate.com/peach-honey-popsicles-recipe/
+902,Simple Caprese Skewers with Balsamic Dipping Sauce,15 mins,Italian,Appetizer,4.8,https://cookieandkate.com/simple-caprese-skewers-recipe/
+903,Homemade Salsa Verde,20 minutes,Mexican,Salsa,4.9,https://cookieandkate.com/homemade-salsa-verde-recipe/
+904,Peanut Dipping Sauce,5 mins,Asian,Sauce,4.7,https://cookieandkate.com/peanut-dipping-sauce/
+905,Cowboy Caviar,15 mins,Southern,Appetizer,4.8,https://cookieandkate.com/cowboy-caviar-recipe/
+906,Sun-Dried Tomato Hummus and Roasted Broccoli Crostini,25 minutes,Greek,Appetizer,5.0,https://cookieandkate.com/roasted-broccoli-crostini-with-sun-dried-tomato-hummus/
+907,Vegan Chipotle Carrot Queso,25 minutes,Mexican,Appetizer,4.8,https://cookieandkate.com/vegan-chipotle-carrot-queso/
+908,Fresh Mango Salsa,15 mins,Mexican,Salsa,4.9,https://cookieandkate.com/fresh-mango-salsa-recipe/
+909,Tropical Mango Spring Rolls with Avocado-Cilantro Dipping Sauce,30 mins,Thai,Appetizer,4.8,https://cookieandkate.com/tropical-mango-spring-rolls/
+910,Green Goddess Hummus,8 minutes,Lebanese,Appetizer,4.9,https://cookieandkate.com/green-goddess-hummus-recipe/
+911,Cinnamon Maple Caramel Popcorn,25 minutes,,,4.9,https://cookieandkate.com/healthy-maple-caramel-popcorn/
+912,Festive Pomegranate Guacamole,20 mins,Mexican,Appetizer,4.8,https://cookieandkate.com/festive-pomegranate-guacamole/
+913,Honey-Sweetened Almond Chocolate Chip Granola Bars,20 mins,Gluten free,Snack,4.8,https://cookieandkate.com/healthy-almond-chocolate-chip-granola-bars/
+914,Quick Pickled Peppers,25 minutes,Mexican,Pickles,4.9,https://cookieandkate.com/quick-pickled-peppers-recipe/
+915,Basil Pesto Party Almonds,40 minutes,Italian,Appetizer,5.0,https://cookieandkate.com/basil-pesto-party-almonds/
+916,Roasted Grape Crostini with Brie and Fresh Thyme,30 minutes,,,4.8,https://cookieandkate.com/roasted-grape-crostini-with-brie-and-thyme/
+917,How to Make Coconut Bacon,15 minutes,American,Condiment,4.7,https://cookieandkate.com/how-to-make-coconut-bacon/
+918,Thai Mango Cabbage Wraps with Crispy Tofu and Peanut Sauce,1 hour,Thai,Appetizer/Entree,4.9,https://cookieandkate.com/thai-mango-cabbage-wraps/
+919,Spicy Quick Pickled Radishes,12 minutes,Mexican,Condiments,4.8,https://cookieandkate.com/spicy-quick-pickled-radishes/
+920,Rhubarb Chia Jam,30 minutes,,,4.6,https://cookieandkate.com/rhubarb-chia-jam/
+921,Super Kale Pesto,13 minutes,Italian,Entree,4.8,https://cookieandkate.com/super-kale-pesto-recipe/
+922,Double Lemon Poppy Seed Muffins,31 minutes,,,4.8,https://cookieandkate.com/double-lemon-poppy-seed-muffins/
+923,"Lemon, Parmesan and Black Pepper Popcorn",10 minutes,,,5.0,https://cookieandkate.com/lemon-parmesan-and-black-pepper-popcorn/
+924,Quick Roasted Brussels Sprouts with Coconut Ginger Sauce,15 minutes,,,4.8,https://cookieandkate.com/quick-roasted-brussels-sprouts-coconut-ginger-sauce/
+925,"Tomato, Olive and Chickpea Quesadillas with Dill Yogurt Dip",15 minutes,Greek,"Entree, appetizer or snack",4.4,https://cookieandkate.com/tomato-olive-and-chickpea-quesadilla-with-dill-yogurt-dip/
+926,Lebanese Lemon-Parsley Bean Salad,15 mins,Mediterranean,Salad,4.9,https://cookieandkate.com/lemon-parsley-bean-salad-and-hummus/
+927,Homemade Lärabars: Apricot Almond Bars,45 minutes,American,Snack,4.6,https://cookieandkate.com/homemade-larabars-apricot-almond-bars/
+928,Gingerbread Granola,40 minutes,,,4.8,https://cookieandkate.com/gingerbread-granola/
+929,Banana Trail Mix Bread,1 hour 10 minutes,,,4.9,https://cookieandkate.com/banana-trail-mix-bread/
+930,Blue Corn Nachos with Homemade Guacamole,25 minutes,Mexican,Appetizer,5.0,https://cookieandkate.com/vegetarian-blue-corn-nachos-with-guacamole/
+931,Broiled Grapefruit with Honey Yogurt and Granola,20 minutes,,,4.8,https://cookieandkate.com/broiled-grapefruit-with-honey-yogurt-and-granola/
+932,Maple Cinnamon Applesauce,35 minutes,,,5.0,https://cookieandkate.com/maple-cinnamon-applesauce/
+933,Roasted Berry and Honey Yogurt Popsicles,35 minutes,,,4.3,https://cookieandkate.com/roasted-berry-and-honey-yogurt-popsicles/
+934,Toasted Coconut Butter,28 minutes,Vegan,Sauce,4.0,https://cookieandkate.com/toasted-coconut-butter/
+935,Crispy Baked French Fries,35 minutes,American,Side,4.5,https://cookieandkate.com/crispy-baked-french-fries/
+936,Simple Tortilla Pizzas,15 minutes,American,Entree,4.9,https://cookieandkate.com/simple-tortilla-pizzas/
+937,Tomatillo Black Bean Tostadas,40 minutes,Mexican,Main,4.8,https://cookieandkate.com/baked-tostadas-with-tomatillo-black-bean-salsa/
+938,Red Pepper Pesto with Roasted Cauliflower,30 minutes,,,5.0,https://cookieandkate.com/red-pepper-pesto-recipe/
+939,Stovetop Popcorn with Chili Powder and Dark Chocolate,10 minutes,,,4.9,https://cookieandkate.com/stovetop-popcorn-with-chocolate-chili-powder/
+940,Pecan Butter,15 mins,American,Condiment,4.8,https://cookieandkate.com/pecan-butter-recipe/
+941,Spicy Sweet Potato Hummus,1 hour 10 minutes,,,4.8,https://cookieandkate.com/spicy-sweet-potato-hummus/
+942,Baked Mediterranean Feta Dip,20 minutes,Mediterranean,Appetizer,5.0,https://cookieandkate.com/mediterranean-feta-dip/
+943,Tomato and Goat Cheese Toast,10 minutes,,,5.0,https://cookieandkate.com/tomato-and-goat-cheese-toast/
+944,Indian Spiced Chickpeas,45 minutes,,,4.5,https://cookieandkate.com/spicy-indian-baked-chickpeas/
+945,Black Bean Salsa,15 minutes,Mexican,Sauce,5.0,https://cookieandkate.com/black-bean-salsa-recipe/
+946,Vegetarian Pho,50 minutes,Vietnamese,Soup,4.7,https://cookieandkate.com/vegetarian-pho-recipe/
+947,Creamy Thai Carrot Sweet Potato Soup,45 minutes,Thai,Soup,4.9,https://cookieandkate.com/thai-carrot-sweet-potato-soup-recipe/
+948,Spiralized Ratatouille,55 minutes,French,Stew,4.9,https://cookieandkate.com/spiralized-ratatouille-recipe/
+949,Thai Red Curry with Vegetables,40 minutes,Thai,Entree,4.8,https://cookieandkate.com/thai-red-curry-recipe/
+950,Adrianna’s Spicy Squash Soup,50 minutes,,,5.0,https://cookieandkate.com/spicy-squash-soup-recipe/
+951,Thai Green Curry with Spring Vegetables,45 minutes,Thai,Entree,4.8,https://cookieandkate.com/thai-green-curry-with-spring-vegetables/
+952,Coconut Curried Kale and Sweet Potato,1 hour 5 minutes,Indian,Entree,4.8,https://cookieandkate.com/coconut-curried-kale-and-sweet-potato-recipe/
+953,Creamy Roasted Pumpkin Soup,1 hour 25 minutes,American,Soup,4.7,https://cookieandkate.com/creamy-vegan-pumpkin-soup/
+954,Thai Curried Butternut Squash Soup,40 minutes,Thai,Soup,4.7,https://cookieandkate.com/thai-curried-butternut-squash-soup/
+955,Roasted Red Pepper Tortilla Soup,1 hour 10 minutes,Mexican,Soup,5.0,https://cookieandkate.com/roasted-red-pepper-tortilla-soup/
+956,Redeeming Green Soup with Lemon and Cayenne,1 hour,,,4.8,https://cookieandkate.com/redeeming-green-soup-with-lemon-and-cayenne/
+957,Curried Cauliflower Soup,1 hour,Thai,Soup,4.8,https://cookieandkate.com/curried-cauliflower-soup/
+958,Tortilla Soup,30 minutes,Mexican,Entree,4.9,https://cookieandkate.com/vegetarian-tortilla-soup/
+959,Vegetarian Peanut Soup,45 minutes,African,Soup,4.9,https://cookieandkate.com/west-african-peanut-soup/
+960,Curried Red Lentil Soup with Dried Cherries and Cilantro,50 minutes,Indian,Soup,4.7,https://cookieandkate.com/curried-red-lentil-soup-with-dried-cherries-and-cilantro/
+961,Butternut Squash Chipotle Chili with Avocado,1 hour 20 minutes,American,Main,4.9,https://cookieandkate.com/butternut-squash-chipotle-chili-with-avocado/
+962,Thai Green Curry,55 minutes,Thai,Main,4.9,https://cookieandkate.com/vegetarian-thai-green-curry/
+963,Tomato and Lentil Curry,1 hour,Indian,Stew,4.8,https://cookieandkate.com/vegan-tomato-and-lentil-curry/
+964,Roasted Red Pepper and Tomato Soup,1 hour 10 minutes,,,4.5,https://cookieandkate.com/roasted-red-pepper-and-tomato-soup/
+965,Vegetarian Sweet Potato Chili,1 hour 10 minutes,,,4.9,https://cookieandkate.com/sweet-potato-chili-recipe/
