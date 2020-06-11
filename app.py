@@ -17,7 +17,7 @@ def index():
     cur = mysql.connection.cursor()
     cur.execute('''SELECT title,url,img FROM cookie_kate ORDER BY rating LIMIT 5''')
     results = cur.fetchall()
-    return render_template('newdrop.html', data=results)
+    return render_template('index.html', data=results)
 
 @app.route('/recipe',methods=['GET'])
 def result():
@@ -29,7 +29,7 @@ def result():
         ingredients = request.args.get("ing")
         subset = getrecipes(cuisine,category,cooktime,rating,ingredients)[["title","url","img"]]
         results = [tuple(x) for x in subset.to_numpy()]
-        return render_template('newdrop.html', data=results)
+        return render_template('index.html', data=results)
 
 if __name__ == "__main__":
     app.run(debug=True)
