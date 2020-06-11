@@ -1,0 +1,90 @@
+html, body {
+  height: 100%;
+}
+
+head {
+  background-color: white;
+  color: black;
+  margin: 0px;
+}
+
+.row {
+  width: auto;
+  border: 1px solid blue;
+  margin: 0;
+}
+
+body {
+    background-color: white;
+    color: black;
+    font-family: arial; 
+    margin: 20px;
+    display: inline;
+  }
+
+h1 {
+  color: rgb(104, 83, 63);
+  text-align: center;
+  background-color: rgb(250, 199, 214)
+}
+
+h2 {
+  color: rgb(212, 181, 157)
+}
+
+a {
+  color:rgb(20, 66, 66);
+  display: block;
+  width: 200px;
+  height: 80px;
+  line-height:normal;
+}
+
+label {
+  font-size: 1.5em;
+  font-weight: bolder;
+  color: rgb(212, 181, 157)
+}
+
+button {
+  font-size: 1.25em;
+  font-weight: bolder;
+  color:rgb(212, 181, 157);
+  background-color: rgb(104, 83, 63);
+  border-radius: 4px;
+}
+
+td{
+  padding: 15px;
+}
+
+.flex-parent {
+  clear: both;
+  flex-direction: row;
+  height: 100%;
+  padding: 0;
+  margin: 0;
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  flex-wrap:wrap; 
+  word-wrap: break-word;
+  text-align: center;
+}
+
+.flex-child img {
+  width: 200px;
+}
+
+.raw-item {
+  width: 10%;
+}
+
+img {
+  max-width: 100%;
+  max-height: 100%;
+}
